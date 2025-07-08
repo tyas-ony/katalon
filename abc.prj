@@ -6,11 +6,12 @@
    <UUID>282a9e70-bc84-4f41-9ae5-12dab4af4bbb</UUID>
    <createdEdition>FREE</createdEdition>
    <createdVersion>9.7.5</createdVersion>
-   <freeLicense>false</freeLicense>
+   <freeLicense>true</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
    <modifiedEdition>FREE</modifiedEdition>
    <modifiedVersion>9.7.5</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>C:\Users\ONY-019\OneDrive\KatalonStudio\abc\abc.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
