@@ -19,3 +19,5 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.comment('test 232321')
 
+WebUI.comment('magang')
+
