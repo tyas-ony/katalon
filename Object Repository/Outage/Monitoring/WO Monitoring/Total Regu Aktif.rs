@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Total Regu Aktif</name>
+   <tag></tag>
+   <elementGuidId>4b6f4038-01a3-461c-993f-4edf06b4e6db</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div[5]/div[2]/button[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f9566cf3-08ab-4db0-841d-2e9f206c3464</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>border lg:rounded-tr lg:rounded-br md:border-l-0 border-[#D9D9D9] flex flex-col justify-center p-4 hover:scale-[.97] transition-all</value>
+      <webElementGuid>de17526f-7eaf-4592-abb1-7e7ced8e05e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>4.200Total Regu Aktif</value>
+      <webElementGuid>fb901948-4792-4000-bbe7-0bdf441f9f6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;px-[64px] py-8 mx-auto mt-24 mb-28 max-w-screen-2xl relative&quot;]/div[@class=&quot;md:w-full lg:w-9/12 mx-auto mb-10&quot;]/div[@class=&quot;grid lg:grid-cols-4&quot;]/button[@class=&quot;border lg:rounded-tr lg:rounded-br md:border-l-0 border-[#D9D9D9] flex flex-col justify-center p-4 hover:scale-[.97] transition-all&quot;]</value>
+      <webElementGuid>d2068c53-5df5-4869-8055-64ed0aad820b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div[5]/div[2]/button[4]</value>
+      <webElementGuid>f5f3e725-aa55-40db-a88c-c6847a9b612b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Penugasan Khusus'])[2]/following::button[1]</value>
+      <webElementGuid>2810ec74-adf2-4b6d-b5cd-7e4f306bc214</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Regu Bertugas'])[2]/following::button[2]</value>
+      <webElementGuid>08415cfc-6ea4-4eb5-abd7-2f25a7357251</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button[4]</value>
+      <webElementGuid>c19efa61-d77a-4eef-8791-9001d2aedafa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = '4.200Total Regu Aktif' or . = '4.200Total Regu Aktif')]</value>
+      <webElementGuid>715f1859-6814-4723-8316-0babc535842a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

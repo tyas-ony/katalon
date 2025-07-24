@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_WA Pelanggan</name>
+   <tag></tag>
+   <elementGuidId>5a798294-71f4-48cd-aa34-c570a48c8d95</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div[3]/div[2]/table/tbody/tr/td[15]/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ddeb8110-71e3-49c7-aff9-403b3510690c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vcc-btn rounded !bg-[#128C7E] text-[#FFF] text-[12px] text-left flex gap-2 h-full</value>
+      <webElementGuid>3af6e060-929e-44e9-962b-a6816d2015c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>c4e3735b-8d6e-4c88-8800-209f129f90ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://wa.me/0</value>
+      <webElementGuid>b50164aa-4aae-432d-aaf7-34e98257afd7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>WA Pelanggan</value>
+      <webElementGuid>37464e99-e8dd-40df-a9a7-5723bb81ee0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;px-[64px] py-8 mx-auto mt-24 mb-28 max-w-screen-2xl relative&quot;]/div[3]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiTableContainer-root table-app-primary scrollable-x max-h-[625px] overflow-auto css-13xy2my&quot;]/table[@class=&quot;MuiTable-root css-crac45&quot;]/tbody[@class=&quot;MuiTableBody-root css-1xnox0e&quot;]/tr[@class=&quot;MuiTableRow-root css-1gqug66&quot;]/td[@class=&quot;MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium  css-1zbr2p&quot;]/div[@class=&quot;grid grid-cols-2 gap-2 items-center&quot;]/a[@class=&quot;vcc-btn rounded !bg-[#128C7E] text-[#FFF] text-[12px] text-left flex gap-2 h-full&quot;]</value>
+      <webElementGuid>9fb60d86-7ca2-42d0-ad3b-0322d23cd619</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div[3]/div[2]/table/tbody/tr/td[15]/div/a</value>
+      <webElementGuid>f09024bd-b8d1-4c08-a179-66e7c44de413</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'WA Pelanggan')]</value>
+      <webElementGuid>d5568fc3-4196-4e35-b9ed-e15b98d1d364</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thierry vigores'])[1]/following::a[1]</value>
+      <webElementGuid>a6a827c9-c29b-4fe1-929c-1dca062de449</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='jl cut nyak dien no.2299 - jl cut nyak dien no.2299'])[1]/following::a[1]</value>
+      <webElementGuid>b65f6f44-7a72-4bd4-a97d-f35bca7985f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WA Petugas'])[1]/preceding::a[1]</value>
+      <webElementGuid>8a8c2291-4505-4071-9db3-c0674d3eed0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ULP RAMBI PUJI'])[1]/preceding::a[2]</value>
+      <webElementGuid>13025b66-91e3-4c2d-89ea-3baab80fcfa6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='WA Pelanggan']/parent::*</value>
+      <webElementGuid>f5bd8ba5-9932-493a-8202-5ee4da491a00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://wa.me/0')]</value>
+      <webElementGuid>114b6c6f-1fc1-48e7-9d05-e42e60ba66d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[15]/div/a</value>
+      <webElementGuid>4e9de095-22bb-459c-96a3-d5c7ac491576</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://wa.me/0' and (text() = 'WA Pelanggan' or . = 'WA Pelanggan')]</value>
+      <webElementGuid>94aaefb8-2051-486a-93af-f2670dbbf5e2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

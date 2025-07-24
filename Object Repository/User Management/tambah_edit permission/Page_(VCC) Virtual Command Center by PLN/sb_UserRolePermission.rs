@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>sb_UserRolePermission</name>
+   <tag></tag>
+   <elementGuidId>c65de5d6-6efa-4931-90c3-a60ec8f554b2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.--submenu-card.animate__animated.animate__slideInLeft</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div/div/nav/div/div/div/div[3]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b71d356e-3a2c-456f-848a-7427538f14d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>--submenu-card animate__animated animate__slideInLeft</value>
+      <webElementGuid>49bbb152-165e-4e67-9816-e4eb764d06da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>UserRolePermission</value>
+      <webElementGuid>64b0a9be-4601-4f33-87fb-39a7d5fd2706</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;px-[64px] py-8 mx-auto mt-28 mb-28 max-w-screen-2xl relative&quot;]/div[1]/div[1]/nav[@class=&quot;main-navbar fixed top-0 left-0 right-0 shadow-md z-[100] bg-white&quot;]/div[@class=&quot;--left flex items-center gap-4 absolute top-0 bottom-0 left-10 h-fit m-auto&quot;]/div[@class=&quot;left-menu-toggle relative&quot;]/div[@class=&quot;expanded left-menu-card px-4 py-8 bg-[#fff] rounded absolute min-w-[225px] top-[98%] animate-fadeInNav&quot;]/div[@class=&quot;menus&quot;]/div[@class=&quot;--submenu-card animate__animated animate__slideInLeft&quot;]</value>
+      <webElementGuid>057e7ae1-f0a7-4ee0-bf87-ef2a461237fa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div/div/nav/div/div/div/div[3]/div[2]</value>
+      <webElementGuid>e8af3524-1305-42fb-b217-003aaff3881e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='user-management'])[2]/following::div[1]</value>
+      <webElementGuid>2a4defdc-d7bc-4030-902b-8c576075fa25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='absensi'])[2]/following::div[3]</value>
+      <webElementGuid>4a46a7fa-12b4-40c0-9f8a-c46ebe167623</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/nav/div/div/div/div[3]/div[2]</value>
+      <webElementGuid>2595ae99-2f78-4be4-a19d-66e367c6b79a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'UserRolePermission' or . = 'UserRolePermission')]</value>
+      <webElementGuid>3876c585-e830-4d6b-8a5e-65f9f5b188cd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

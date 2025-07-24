@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Regu Available</name>
+   <tag></tag>
+   <elementGuidId>694bdafd-943e-4785-b0f5-37604307bcbe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div/div/nav/div[2]/div/div/div/div[2]/a[16]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>09873438-4f56-4dfd-872d-e36ce30eab9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/outage/regu?type=regu_avail</value>
+      <webElementGuid>0ac841a3-1fd2-46ac-88d5-c3a3d11a23cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>min-w-[175px] m-2 p-2 rounded-sm font-light text-[#4F4F4F] hover:bg-[#035b7117] </value>
+      <webElementGuid>322480d6-c05f-4110-ae35-1003a095f20f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Regu Available</value>
+      <webElementGuid>603ac410-ddd6-4409-a601-5e5a58b53bf5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;px-[64px] py-8 mx-auto mt-24 mb-28 max-w-screen-2xl relative&quot;]/div[1]/div[@class=&quot;MuiBox-root css-0&quot;]/nav[@class=&quot;main-navbar fixed top-0 left-0 right-0 shadow-md z-[100] bg-white MuiBox-root css-0&quot;]/div[@class=&quot;--middle w-fit m-auto MuiBox-root css-0&quot;]/div[@class=&quot;--menu flex MuiBox-root css-0&quot;]/div[@class=&quot;active menu-item flex items-center gap-3 px-7 text-[#333] max-w-[175px] text-[14px] cursor-pointer hover:bg-[#E7F6F9] hover:border-[#125D72] hover:text-[#125D72] border-b-2 border-transparent MuiBox-root css-0&quot;]/div[@class=&quot;animate-fadeInNav main-submenu absolute p-6 top-[97%] border-t-[2px] border-t-[#14A2BA] right-0 left-0 m-auto bg-white rounded shadow-md MuiBox-root css-0&quot;]/div[@class=&quot;menu-container max-w-7xl max-h-[65vh] m-auto overflow-auto&quot;]/a[@class=&quot;min-w-[175px] m-2 p-2 rounded-sm font-light text-[#4F4F4F] hover:bg-[#035b7117]&quot;]</value>
+      <webElementGuid>59655075-b085-4b57-9f32-9480f11369db</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div/div/nav/div[2]/div/div/div/div[2]/a[16]</value>
+      <webElementGuid>0d9c07d2-7586-483e-a1ae-09dcfce0dffc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Regu Available')])[2]</value>
+      <webElementGuid>eafc3a16-5bce-4bf8-a20a-17c2bae58d2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Regu'])[2]/following::a[1]</value>
+      <webElementGuid>e3c83119-9c21-4232-ba8b-836131fc9a56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Monitoring'])[6]/following::a[1]</value>
+      <webElementGuid>76d35c44-0628-45c6-a919-0fb863cf5506</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Regu Bertugas'])[2]/preceding::a[1]</value>
+      <webElementGuid>6b81082e-7501-4eba-a214-9785f9f34bcb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Penugasan Khusus'])[2]/preceding::a[2]</value>
+      <webElementGuid>2c7d4950-936d-4ce2-800f-6c387c161aa9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/outage/regu?type=regu_avail')])[2]</value>
+      <webElementGuid>0b5e7e26-7dca-4d6f-bb56-2c80ff630f9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/nav/div[2]/div/div/div/div[2]/a[16]</value>
+      <webElementGuid>7e2ce2e5-a41d-41bd-8f60-5869150edb6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/outage/regu?type=regu_avail' and (text() = 'Regu Available' or . = 'Regu Available')]</value>
+      <webElementGuid>7516579e-7dfa-40f0-9eae-d1af939f5e23</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

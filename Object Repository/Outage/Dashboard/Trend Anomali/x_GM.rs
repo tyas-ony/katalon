@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>x_GM</name>
+   <tag></tag>
+   <elementGuidId>677ee400-a7e7-4a8b-b74d-0f63ee36dc12</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.close.absolute.top-6.right-6.cursor-pointer</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div[6]/div/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>10367460-17bf-4bb4-a4c4-a73c5be96e08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>close absolute top-6 right-6 cursor-pointer</value>
+      <webElementGuid>421a9afc-a762-4697-84b2-c2a4c3dd1be0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;px-[64px] py-8 mx-auto mt-24 mb-28 max-w-screen-2xl relative&quot;]/div[@class=&quot;vcc-modal  fixed top-0 left-0 right-0 bottom-0 z-[100] bg-[#081e3d3a] backdrop-blur-sm MuiBox-root css-0&quot;]/div[@class=&quot;vcc-modal-card animate__animated animate__fadeIn w-[640px] bg-white rounded px-8 absolute top-[50%] translate-y-[-50%] left-0 right-0 z-[102] m-auto&quot;]/div[@class=&quot;vcc-card-header pt-6 mb-5 border-b border-[#D9D9D9]&quot;]/button[@class=&quot;close absolute top-6 right-6 cursor-pointer&quot;]</value>
+      <webElementGuid>9abd3c2e-b8b4-40c9-8cd7-11cc59d281b2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div[6]/div/div/button</value>
+      <webElementGuid>5fa8838f-4ccf-40f0-a832-24458cc471a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rating Negatif'])[1]/following::button[2]</value>
+      <webElementGuid>b717c5c2-1201-43c0-8423-1210c6b4717d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gede Agung Sindu Putra'])[1]/preceding::button[1]</value>
+      <webElementGuid>c1b6addd-b2fd-46c5-9080-88a587f5d8c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/button</value>
+      <webElementGuid>a7e7ac4b-bde3-4435-a556-6e8ce3216e41</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Ok</name>
+   <tag></tag>
+   <elementGuidId>5de6fb75-fb48-4d1c-97c0-fe7b71b9c67e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div[4]/div/div[2]/div[2]/div[3]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>dd0c4c95-e5fb-4501-a146-81a566fe7395</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vcc-btn vcc-btn-sm contained-success undefined</value>
+      <webElementGuid>4fc62e40-d0c2-48ff-b702-493987d05b0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ok</value>
+      <webElementGuid>5e82960e-42ad-4d21-93c2-c5e9b117bcd7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;px-[64px] py-8 mx-auto mt-28 mb-28 max-w-screen-2xl relative&quot;]/div[@class=&quot;block animate__animated animate__fadeIn animate__faster bg-[#25ad1931] filter backdrop-blur-sm fixed left-0 right-0 top-0 bottom-0 z-[104] MuiBox-root css-0&quot;]/div[@class=&quot;animate__animated animate__fadeInUp animate__faster modal-box p-6 bg-[#ffffff] rounded-lg max-w-md absolute left-0 right-0 m-auto top-1/4 shadow-md&quot;]/div[@class=&quot;content flex items-center gap-2&quot;]/div[@class=&quot;desc border-l-2 border-gray-300 pl-4 py-1&quot;]/div[@class=&quot;mt-4&quot;]/button[@class=&quot;vcc-btn vcc-btn-sm contained-success undefined&quot;]</value>
+      <webElementGuid>7ef398a5-5347-4140-9261-a62abe3f22f9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div[4]/div/div[2]/div[2]/div[3]/button</value>
+      <webElementGuid>28ee8c47-789f-49c9-a5fe-2743ff838ed8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data berhasil diubah !'])[2]/following::button[1]</value>
+      <webElementGuid>ae9ce371-5faa-4879-bf81-a513bda85158</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Success!'])[2]/following::button[1]</value>
+      <webElementGuid>e664fe3b-66c5-4611-a4ac-82b011ef5277</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div[2]/div[2]/div[3]/button</value>
+      <webElementGuid>fa5b8c7c-8675-4c84-89b3-81c1221e8c1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Ok' or . = 'Ok')]</value>
+      <webElementGuid>ec450588-1069-4e57-84dd-ab0cbf1409bf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_TAMBAH DATA</name>
+   <tag></tag>
+   <elementGuidId>d297514b-6751-4133-9c6a-7abda5f4f120</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3c237a57-ee4b-4196-83fd-bc622bf281b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vcc-btn contained-success text-[12px] !px-[12px] !py-[9px]</value>
+      <webElementGuid>9978799b-63e1-4e66-9df8-39693c3f34ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/user-management/user/create</value>
+      <webElementGuid>89bf8c00-a056-4265-8372-b7b7a7186ef5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>TAMBAH DATA</value>
+      <webElementGuid>60026771-8221-4f98-8c63-f9739c23aecc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;px-[64px] py-8 mx-auto mt-28&quot;]/div[@class=&quot;flex items-center justify-between mt-49 mb-4 MuiBox-root css-0&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/a[@class=&quot;vcc-btn contained-success text-[12px] !px-[12px] !py-[9px]&quot;]</value>
+      <webElementGuid>baa52c85-3895-4f5d-90a5-89eb6608790a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div/div/a</value>
+      <webElementGuid>e7777a75-e903-4e64-a450-d17a6b1d2721</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'TAMBAH DATA')]</value>
+      <webElementGuid>d21db4b2-1a69-4d17-b308-5230080df885</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EXPORT'])[1]/following::a[1]</value>
+      <webElementGuid>f3a8030b-a037-4214-b9ac-80d934c9f67c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Users'])[1]/following::a[1]</value>
+      <webElementGuid>70a1457e-9853-4e11-9cd4-997120510df7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Management'])[2]/preceding::a[1]</value>
+      <webElementGuid>9228d0c2-1704-4f1c-b1ac-8e73e6ac7e35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Users'])[2]/preceding::a[2]</value>
+      <webElementGuid>2a6826a5-7c96-4261-ab23-4ce9ae59a43b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='TAMBAH DATA']/parent::*</value>
+      <webElementGuid>c3a230e5-7511-40a7-b10d-1c350c8ce025</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/user-management/user/create')]</value>
+      <webElementGuid>3d04cb86-8e10-4a37-a641-ecb86a621265</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/a</value>
+      <webElementGuid>75be46a5-dd82-43c1-a0ce-0740d73a61fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/user-management/user/create' and (text() = 'TAMBAH DATA' or . = 'TAMBAH DATA')]</value>
+      <webElementGuid>760ee5d4-b1ca-4180-839f-99847680a605</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

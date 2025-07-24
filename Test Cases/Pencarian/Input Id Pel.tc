@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Input Id Pel</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f908e8cb-7f82-4ed6-ae0f-2c07c2c80685</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a3e8e877-f6b2-4f34-84b9-df760a500750</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'D:\\\\CSV IDPEL Test.csv'</defaultValue>
+      <description></description>
+      <id>a3e8e877-f6b2-4f34-84b9-df760a500750</id>
+      <masked>false</masked>
+      <name>file</name>
+   </variable>
+</TestCaseEntity>

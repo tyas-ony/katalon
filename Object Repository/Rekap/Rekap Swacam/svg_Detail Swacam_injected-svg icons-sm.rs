@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Detail Swacam_injected-svg icons-sm</name>
+   <tag></tag>
+   <elementGuidId>c6e3ddc8-c62c-4106-a6bf-c4d3103fb02e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.vcc-card-header.pt-6.pb-4.mb-4 > div.close.absolute.top-6.right-6.cursor-pointer > span > span > svg.injected-svg.icons-sm</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Detail Swacam'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>af75a776-90e3-4748-87d3-b0ab48ed03eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>315bbd40-d5df-4eaa-ab9e-bbfc13380ed9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>27</value>
+      <webElementGuid>5cc3f18d-376e-4a4f-a641-17be01d4da30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>27</value>
+      <webElementGuid>bdcb6e35-d7fb-4e3e-a230-6cda969bad69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 27 27</value>
+      <webElementGuid>643f03db-f628-492d-aa15-8d33447766dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>24761e74-3b68-49c4-b953-566c5a153346</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>injected-svg icons-sm</value>
+      <webElementGuid>4b683f35-d448-405b-89d1-f7a98d841a45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-src</name>
+      <type>Main</type>
+      <value>/icons/icons-times.svg</value>
+      <webElementGuid>5f629725-d3f6-435e-8155-22878e864130</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns:xlink</name>
+      <type>Main</type>
+      <value>http://www.w3.org/1999/xlink</value>
+      <webElementGuid>5a12ad33-5d93-4878-83cd-70df742c9556</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>9bb80c05-dbb8-4eff-94cd-40c853ce2472</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;px-[64px] py-8 mx-auto mt-28 mb-28 max-w-screen-2xl relative&quot;]/div[@class=&quot;vcc-modal  fixed top-0 left-0 right-0 bottom-0 z-[100] bg-[#081e3d3a] backdrop-blur-sm MuiBox-root css-0&quot;]/div[@class=&quot;vcc-modal-card animate__animated animate__fadeIn w-[480px] bg-white rounded p-8 pt-0 absolute top-[10%] left-0 right-0 z-[102] m-auto&quot;]/div[@class=&quot;vcc-card-header pt-6 pb-4 mb-4&quot;]/div[@class=&quot;close absolute top-6 right-6 cursor-pointer&quot;]/span[1]/span[1]/svg[@class=&quot;injected-svg icons-sm&quot;]</value>
+      <webElementGuid>3e0fe4b3-7352-4307-94bf-c80584e47af4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detail Swacam'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>0ab1815c-4a80-4d18-9e2b-59559cd8014f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tutup'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>4dc5bc25-d4e1-4b01-bfca-4127f3ea7cfc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Meter ID'])[2]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>1286450b-6e91-4c09-a0dc-f71c30fdeb45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Username'])[2]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>084d40f2-59c1-4b01-9464-1a259014fcdf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

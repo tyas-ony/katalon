@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_WO Belum Ditindak Lanjuti</name>
+   <tag></tag>
+   <elementGuidId>01168e33-a4d3-45f2-b82a-2c2cfcb8916e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div/div/nav/div[2]/div/div/div/div[2]/a[28]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c783efb2-8e86-4112-acc1-21ec783d5c79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/outage/wo/keluhan?subtype=belum-tindak-lanjut</value>
+      <webElementGuid>b4383cdd-53e2-4831-962e-b07b7652c431</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>min-w-[175px] m-2 p-2 rounded-sm font-light text-[#4F4F4F] hover:bg-[#035b7117] </value>
+      <webElementGuid>4e233da2-994a-4839-abb0-cdf5a9a36547</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>WO Belum Ditindak Lanjuti</value>
+      <webElementGuid>d3babc5a-9e2d-49d9-b81e-adfe31f1cc0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;px-[64px] py-8 mx-auto mt-24 mb-28 max-w-screen-2xl relative&quot;]/div[1]/div[@class=&quot;MuiBox-root css-0&quot;]/nav[@class=&quot;main-navbar fixed top-0 left-0 right-0 shadow-md z-[100] bg-white MuiBox-root css-0&quot;]/div[@class=&quot;--middle w-fit m-auto MuiBox-root css-0&quot;]/div[@class=&quot;--menu flex MuiBox-root css-0&quot;]/div[@class=&quot;active menu-item flex items-center gap-3 px-7 text-[#333] max-w-[175px] text-[14px] cursor-pointer hover:bg-[#E7F6F9] hover:border-[#125D72] hover:text-[#125D72] border-b-2 border-transparent MuiBox-root css-0&quot;]/div[@class=&quot;animate-fadeInNav main-submenu absolute p-6 top-[97%] border-t-[2px] border-t-[#14A2BA] right-0 left-0 m-auto bg-white rounded shadow-md MuiBox-root css-0&quot;]/div[@class=&quot;menu-container max-w-7xl max-h-[65vh] m-auto overflow-auto&quot;]/a[@class=&quot;min-w-[175px] m-2 p-2 rounded-sm font-light text-[#4F4F4F] hover:bg-[#035b7117]&quot;]</value>
+      <webElementGuid>2e79a2e5-9e8e-4879-b267-d145e430663b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div/div/nav/div[2]/div/div/div/div[2]/a[28]</value>
+      <webElementGuid>c2f0c721-12bc-464f-8188-8bb947a4519f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'WO Belum Ditindak Lanjuti')])[8]</value>
+      <webElementGuid>dbfb4d4c-030a-4964-ae42-7bf04f119718</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WO Sedang Ditindak Lanjuti Over SLA'])[4]/following::a[1]</value>
+      <webElementGuid>6d7a6512-16a3-4f8e-84b3-deb4c1dfff3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WO Belum Ditindak Lanjuti Over SLA'])[4]/following::a[2]</value>
+      <webElementGuid>ecfc8bd9-30c7-4039-af8d-6b780342e393</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WO Sedang Ditindak Lanjuti'])[4]/preceding::a[1]</value>
+      <webElementGuid>b8d019d1-cc9d-4790-a649-84a458ea04c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WO Keluhan Berulang PLN Mobile'])[2]/preceding::a[2]</value>
+      <webElementGuid>0acfca22-0d0d-45f7-9c0c-e61fbd824fd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/outage/wo/keluhan?subtype=belum-tindak-lanjut')])[4]</value>
+      <webElementGuid>ec5d4277-bff6-4b74-b370-e39d36b0ab4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/nav/div[2]/div/div/div/div[2]/a[28]</value>
+      <webElementGuid>ff046581-a5a3-4bd7-89d6-7a217deb18ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/outage/wo/keluhan?subtype=belum-tindak-lanjut' and (text() = 'WO Belum Ditindak Lanjuti' or . = 'WO Belum Ditindak Lanjuti')]</value>
+      <webElementGuid>6594be23-e7f6-4ca9-b3aa-cdf9f81c6aa5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

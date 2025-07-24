@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>G_Close</name>
+   <tag></tag>
+   <elementGuidId>8c9be2db-be94-41d0-a97a-54c24f9039c8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.rounded.flex.items-center</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div[6]/div[2]/div/div[3]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>907e630a-d7cc-473c-8197-35e2c101e4ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rounded flex items-center</value>
+      <webElementGuid>463e4813-0161-4ba1-8892-6d6e81b5ec95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/</value>
+      <webElementGuid>af8a1a81-dacd-445c-80a8-75dc2e0aff9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Close10.525</value>
+      <webElementGuid>48ceac01-7e4c-4dfe-b832-76fd12203d2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;px-[64px] py-8 mx-auto mt-24 mb-28 max-w-screen-2xl relative&quot;]/div[@class=&quot;md:w-full lg:w-6/12 bg-[#E7F6F9] mx-auto mb-10 p-4 rounded&quot;]/div[@class=&quot;grid gap-2 mb-1&quot;]/div[@class=&quot;mb-4&quot;]/div[@class=&quot;bg-[#FFF] px-4 py-2 rounded-bl rounded-br&quot;]/a[@class=&quot;rounded flex items-center&quot;]</value>
+      <webElementGuid>cab9f85a-e583-4952-94c9-802439d78307</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div[6]/div[2]/div/div[3]/a</value>
+      <webElementGuid>e7de582f-f1f9-47e4-a919-0c68b5cd529b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open'])[1]/following::a[5]</value>
+      <webElementGuid>81437248-5153-4227-8d29-7db6a6b5356b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GANGGUAN PELANGGAN'])[1]/following::a[5]</value>
+      <webElementGuid>3f18105d-a19e-4ee1-8864-e5234810dbc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KELUHAN PELANGGAN'])[1]/preceding::a[1]</value>
+      <webElementGuid>3bbd673a-5149-4eb7-a520-4a0c9a6625e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/')])[67]</value>
+      <webElementGuid>d78c81d6-b76a-4932-bc72-2fdef9eca56d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a</value>
+      <webElementGuid>3a8574ea-ca0f-4184-a38c-17190e104345</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/' and (text() = 'Close10.525' or . = 'Close10.525')]</value>
+      <webElementGuid>2670fc17-f73f-4b5b-946f-53431ca9810d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

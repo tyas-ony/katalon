@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Tambah UserUser ManagementUsersTambah U_be0c0e</name>
+   <tag></tag>
+   <elementGuidId>727a2d47-79b6-4670-9495-12c8d13394f5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>44564409-1db6-4dce-96ee-f675cc256e6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>px-[64px] py-8 mx-auto mt-28</value>
+      <webElementGuid>eecc6741-3297-45df-98a4-b73c1b8d0429</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tambah UserUser ManagementUsersTambah UserRole​Username​Fullname​Email​Level​Jabatan​Unit Name​Password​Konfirmasi Password​Statusnon activeCANCELSUBMIT</value>
+      <webElementGuid>cdb49e3c-9e2c-4e97-9ee2-8504f71b3e02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;px-[64px] py-8 mx-auto mt-28&quot;]</value>
+      <webElementGuid>fa31f87a-0c68-4f84-9a5c-f6d6033ff138</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]</value>
+      <webElementGuid>4961463b-9015-4287-930e-d7d3408a8d8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/following::div[3]</value>
+      <webElementGuid>151d6237-be96-4bf3-b31e-6a9d8efe9874</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manual User'])[1]/following::div[3]</value>
+      <webElementGuid>34788b7e-2b21-459a-aa95-ad91d9925ce9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]</value>
+      <webElementGuid>220c40ae-9d94-4e67-97e3-4300d8ce8bdd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Tambah UserUser ManagementUsersTambah UserRole​Username​Fullname​Email​Level​Jabatan​Unit Name​Password​Konfirmasi Password​Statusnon activeCANCELSUBMIT' or . = 'Tambah UserUser ManagementUsersTambah UserRole​Username​Fullname​Email​Level​Jabatan​Unit Name​Password​Konfirmasi Password​Statusnon activeCANCELSUBMIT')]</value>
+      <webElementGuid>859ca9b6-f7ff-4dd8-b68e-090e8d345755</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

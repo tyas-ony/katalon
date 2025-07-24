@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_WA Petugas</name>
+   <tag></tag>
+   <elementGuidId>2097b5e1-a490-4084-a170-fe922f8dde9e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div[3]/div[2]/table/tbody/tr/td[15]/div/a[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>941a3534-4904-47bb-8e4b-7bcf39b0b638</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vcc-btn rounded !bg-[#25D366] text-[#FFF] text-[12px] text-left flex gap-2 h-full</value>
+      <webElementGuid>3f41dff0-7a03-4dae-bcea-b7c37fbd1956</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>2dc6d2b0-c5d2-4df0-a9cf-38b1c49ceb00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://wa.me/08113802970</value>
+      <webElementGuid>eb7fc549-b0dc-4f96-bc9a-4511fac0409e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>WA Petugas</value>
+      <webElementGuid>8695f5b1-a8f2-44b8-b2d7-d965c2028413</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;px-[64px] py-8 mx-auto mt-24 mb-28 max-w-screen-2xl relative&quot;]/div[3]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiTableContainer-root table-app-primary scrollable-x max-h-[625px] overflow-auto css-13xy2my&quot;]/table[@class=&quot;MuiTable-root css-crac45&quot;]/tbody[@class=&quot;MuiTableBody-root css-1xnox0e&quot;]/tr[@class=&quot;MuiTableRow-root css-1gqug66&quot;]/td[@class=&quot;MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium sticky-right css-1zbr2p&quot;]/div[@class=&quot;grid grid-cols-2 gap-2 items-center&quot;]/a[@class=&quot;vcc-btn rounded !bg-[#25D366] text-[#FFF] text-[12px] text-left flex gap-2 h-full&quot;]</value>
+      <webElementGuid>817a48c8-0287-44eb-a070-ce84d4ae8bf3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div[3]/div[2]/table/tbody/tr/td[15]/div/a[2]</value>
+      <webElementGuid>bf8749ce-789d-454b-86a1-a3913b66cc83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'WA Petugas')]</value>
+      <webElementGuid>fcd22cad-27ac-4e97-8bd7-20ce64b0258a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WA Pelanggan'])[1]/following::a[1]</value>
+      <webElementGuid>8d9361f7-bbd0-4c90-81d7-4b7594b15fca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='sulman'])[2]/following::a[2]</value>
+      <webElementGuid>f8da94fa-1f9d-46de-b101-3178f38bf784</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='mamang'])[1]/preceding::a[1]</value>
+      <webElementGuid>2aaba62a-4869-49da-b540-b66b0b4013c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ULP SUMENEP'])[1]/preceding::a[1]</value>
+      <webElementGuid>c5e1e3b9-d52e-4024-9064-cebb28856a98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='WA Petugas']/parent::*</value>
+      <webElementGuid>a06f374f-b77d-4676-8b5b-4dee6f5b1e89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://wa.me/08113802970')]</value>
+      <webElementGuid>1369daeb-8f65-4e98-8908-0a304a3ff2b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[15]/div/a[2]</value>
+      <webElementGuid>222b5d41-3662-4bf2-8720-022bd149138a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://wa.me/08113802970' and (text() = 'WA Petugas' or . = 'WA Petugas')]</value>
+      <webElementGuid>b7a6d34e-4183-420d-bc20-d8c0aaea2b94</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

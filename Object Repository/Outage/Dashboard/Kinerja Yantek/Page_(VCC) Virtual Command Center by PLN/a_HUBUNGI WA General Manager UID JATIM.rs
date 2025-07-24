@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_HUBUNGI WA General Manager UID JATIM</name>
+   <tag></tag>
+   <elementGuidId>7725474d-5b99-4f31-9692-da437d18ac6e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div[8]/div/div[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3fbdbd25-1224-46ab-b20e-550d8d7a73dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rounded-md bg-[#7ACE4C] text-[#FFF] uppercase text-[12px] px-[12px] py-[14px] mb-3 block w-fit</value>
+      <webElementGuid>cc26620c-1e4a-4833-ad12-ee61ebb1ef66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>75a42515-f5d7-4bea-ad10-b2aa451aa76c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://wa.me/null</value>
+      <webElementGuid>d71095c4-543f-42ee-9f98-6e7157d84660</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>HUBUNGI WA General Manager UID JATIM</value>
+      <webElementGuid>03134af7-a51a-4e6d-bc45-50a6d5d8cfd6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;px-[64px] py-8 mx-auto mt-24 mb-28 max-w-screen-2xl relative&quot;]/div[@class=&quot;vcc-modal  fixed top-0 left-0 right-0 bottom-0 z-[100] bg-[#081e3d3a] backdrop-blur-sm MuiBox-root css-0&quot;]/div[@class=&quot;vcc-modal-card animate__animated animate__fadeIn w-[640px] bg-white rounded px-8 absolute top-[50%] translate-y-[-50%] left-0 right-0 z-[102] m-auto&quot;]/div[@class=&quot;vcc-modal-body mb-8&quot;]/a[@class=&quot;rounded-md bg-[#7ACE4C] text-[#FFF] uppercase text-[12px] px-[12px] py-[14px] mb-3 block w-fit&quot;]</value>
+      <webElementGuid>a8bb6044-ad5f-4736-8f97-4d8201824ebf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div[8]/div/div[2]/a</value>
+      <webElementGuid>24ef8c50-d037-49cf-ad4c-317ce9a1a102</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lasiran'])[1]/following::a[1]</value>
+      <webElementGuid>4f965fca-1260-4b06-aad1-31fe430c3e34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='General Manager UID JATIM'])[1]/following::a[1]</value>
+      <webElementGuid>94ba45cd-4391-4b0a-8177-1b997346bd35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Error!'])[1]/preceding::a[2]</value>
+      <webElementGuid>8a1c5a84-566d-40a8-a888-db8e37c206f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='HUBUNGI WA']/parent::*</value>
+      <webElementGuid>52f285e9-c6e1-479e-a048-d9dfb91536c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://wa.me/null')]</value>
+      <webElementGuid>cd311f03-3de5-471c-9642-c8a4708b4f07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div[2]/a</value>
+      <webElementGuid>7107bd9e-890d-4a7f-b619-047d52e8fe9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://wa.me/null' and (text() = 'HUBUNGI WA General Manager UID JATIM' or . = 'HUBUNGI WA General Manager UID JATIM')]</value>
+      <webElementGuid>aee2cdce-cc3c-456d-a9bd-c268d943a187</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

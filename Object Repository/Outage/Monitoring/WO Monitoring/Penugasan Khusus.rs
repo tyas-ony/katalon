@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Penugasan Khusus</name>
+   <tag></tag>
+   <elementGuidId>6930b2c2-5449-4628-937f-0dff03b51674</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div[5]/div[2]/button[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c636a5ff-8133-48ee-8097-6863476c9754</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>border md:border-l-0 border-[#D9D9D9] flex flex-col justify-center p-4 hover:scale-[.97] transition-all</value>
+      <webElementGuid>570d1f75-8c58-4820-85af-2af14383bea5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>3.086Penugasan Khusus</value>
+      <webElementGuid>38bdd885-7e65-4400-a474-d052921923b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;px-[64px] py-8 mx-auto mt-24 mb-28 max-w-screen-2xl relative&quot;]/div[@class=&quot;md:w-full lg:w-9/12 mx-auto mb-10&quot;]/div[@class=&quot;grid lg:grid-cols-4&quot;]/button[@class=&quot;border md:border-l-0 border-[#D9D9D9] flex flex-col justify-center p-4 hover:scale-[.97] transition-all&quot;]</value>
+      <webElementGuid>3690d5db-5f72-4061-9cb5-e3229660b692</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div[5]/div[2]/button[3]</value>
+      <webElementGuid>bcc07641-d211-4f04-bdaa-272221bc92fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Regu Bertugas'])[2]/following::button[1]</value>
+      <webElementGuid>5469e860-c7f6-41a6-9f38-1555b730dd73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Regu Available'])[2]/following::button[2]</value>
+      <webElementGuid>f8059dc4-539e-4850-b630-35a31176e044</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Regu Aktif'])[2]/preceding::button[1]</value>
+      <webElementGuid>aafa1e73-411f-4115-b0b6-54de7239e356</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button[3]</value>
+      <webElementGuid>ac2a9c24-c1ca-4cde-917a-cb7e057acfc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = '3.086Penugasan Khusus' or . = '3.086Penugasan Khusus')]</value>
+      <webElementGuid>99b5e9fd-7183-4367-940b-e10a350243b4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

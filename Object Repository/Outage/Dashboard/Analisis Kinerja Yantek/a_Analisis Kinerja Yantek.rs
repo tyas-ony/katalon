@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Analisis Kinerja Yantek</name>
+   <tag></tag>
+   <elementGuidId>7575de6a-85f0-46d3-929f-58f5bc22c0ac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div/div/nav/div[2]/div/div/div/div[2]/a[6]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>21f131c1-06fa-4bae-93be-35da0d8e1290</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/outage/dashboard/analisis-kinerja-yantek</value>
+      <webElementGuid>93c344d3-b5e9-420c-b010-2f072de84df5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>min-w-[175px] m-2 p-2 rounded-sm font-light text-[#4F4F4F] hover:bg-[#035b7117] </value>
+      <webElementGuid>006fdc83-1cd5-45f1-9a5e-ea682673bbc8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Analisis Kinerja Yantek</value>
+      <webElementGuid>7db42504-3a56-41b4-8ba5-5b617887a0ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;px-[64px] py-8 mx-auto mt-24 mb-28 max-w-screen-2xl relative&quot;]/div[1]/div[@class=&quot;MuiBox-root css-0&quot;]/nav[@class=&quot;main-navbar fixed top-0 left-0 right-0 shadow-md z-[100] bg-white MuiBox-root css-0&quot;]/div[@class=&quot;--middle w-fit m-auto MuiBox-root css-0&quot;]/div[@class=&quot;--menu flex MuiBox-root css-0&quot;]/div[@class=&quot;active menu-item flex items-center gap-3 px-7 text-[#333] max-w-[175px] text-[14px] cursor-pointer hover:bg-[#E7F6F9] hover:border-[#125D72] hover:text-[#125D72] border-b-2 border-transparent MuiBox-root css-0&quot;]/div[@class=&quot;animate-fadeInNav main-submenu absolute p-6 top-[97%] border-t-[2px] border-t-[#14A2BA] right-0 left-0 m-auto bg-white rounded shadow-md MuiBox-root css-0&quot;]/div[@class=&quot;menu-container max-w-7xl m-auto&quot;]/a[@class=&quot;min-w-[175px] m-2 p-2 rounded-sm font-light text-[#4F4F4F] hover:bg-[#035b7117]&quot;]</value>
+      <webElementGuid>42cda35f-31e8-4e88-9eb1-2815b5ee7dad</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div/div/nav/div[2]/div/div/div/div[2]/a[6]</value>
+      <webElementGuid>1aa1bd6a-0cfb-483c-9b3e-c1fae40b69e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Analisis Kinerja Yantek')])[2]</value>
+      <webElementGuid>9db97471-8baa-42bb-8fb2-b020a36042ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kinerja Yantek'])[2]/following::a[1]</value>
+      <webElementGuid>93cb7b09-3b95-4e0d-881c-13ddbd5fdbeb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trend Anomali'])[2]/following::a[2]</value>
+      <webElementGuid>9bdd0dfb-f3ab-4c9e-aaf6-47ccdba05ab4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detail Kinerja Yantek'])[2]/preceding::a[1]</value>
+      <webElementGuid>f1d01ee5-8b8d-47a6-befa-a2db9df56f33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kinerja Vendor'])[2]/preceding::a[2]</value>
+      <webElementGuid>d9c02cf7-77c7-4050-9c8c-d6dddb95eba6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/outage/dashboard/analisis-kinerja-yantek')])[2]</value>
+      <webElementGuid>62b24d81-56b2-4ea4-a31d-8d143ca66a2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/nav/div[2]/div/div/div/div[2]/a[6]</value>
+      <webElementGuid>9a4dc455-bc22-4c73-8e63-951c9d41c307</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/outage/dashboard/analisis-kinerja-yantek' and (text() = 'Analisis Kinerja Yantek' or . = 'Analisis Kinerja Yantek')]</value>
+      <webElementGuid>6b00642a-1362-444d-a573-0e4716ff4546</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

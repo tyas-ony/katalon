@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>G_WO sedang Over SLA</name>
+   <tag></tag>
+   <elementGuidId>072f80eb-603d-45cb-a684-9c90b35029ad</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div[6]/div[2]/div/div[2]/div/div[2]/a[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>689809b2-9f7b-4469-be43-4efa2e81b132</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bg-[#FB0102] text-[14px] text-[#FFF] px-[8px] py-[4px] rounded-[50px]</value>
+      <webElementGuid>065e3680-7f1e-4f75-9c3f-4373b7954b67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Wo Sedang Ditindaklanjut Over SLA</value>
+      <webElementGuid>566f3f66-ab1e-4222-8406-3c8b6b32cc55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/outage/monitoring/detail?type=gg&amp;data=r&amp;tab=1</value>
+      <webElementGuid>c4ac5249-8645-4a59-baa2-ffbcef6896ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>3b222c3a-5612-489a-bab1-d9dceace5be9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;px-[64px] py-8 mx-auto mt-24 mb-28 max-w-screen-2xl relative&quot;]/div[@class=&quot;md:w-full lg:w-6/12 bg-[#E7F6F9] mx-auto mb-10 p-4 rounded&quot;]/div[@class=&quot;grid gap-2 mb-1&quot;]/div[@class=&quot;mb-4&quot;]/div[@class=&quot;bg-[#FFF] rounded px-4 py-2 gap-x-2 mb-[1px]&quot;]/div[@class=&quot;flex items-center justify-between&quot;]/div[@class=&quot;flex w-full items-center gap-x-10&quot;]/a[@class=&quot;bg-[#FB0102] text-[14px] text-[#FFF] px-[8px] py-[4px] rounded-[50px]&quot;]</value>
+      <webElementGuid>6da56f73-b95b-4e2d-a747-40c6c05ed907</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div[6]/div[2]/div/div[2]/div/div[2]/a[2]</value>
+      <webElementGuid>7bccd02b-da3a-473d-b0bf-0fb9f0abfc02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'0')])[2]</value>
+      <webElementGuid>04d2115e-4261-46aa-aae1-126e5f314267</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open'])[1]/following::a[2]</value>
+      <webElementGuid>4cee1d7e-8ecf-4ef4-bbb7-aa8b60dadb30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GANGGUAN PELANGGAN'])[1]/following::a[2]</value>
+      <webElementGuid>e1d661a8-4fb5-4e98-8e24-6d95a65643fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[1]/preceding::a[3]</value>
+      <webElementGuid>aa39c4f4-f716-46b2-bb42-7289b707ed19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KELUHAN PELANGGAN'])[1]/preceding::a[4]</value>
+      <webElementGuid>38149d8b-2c3c-47b6-bd94-8a794930b0eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/outage/monitoring/detail?type=gg&amp;data=r&amp;tab=1')]</value>
+      <webElementGuid>8651e823-81f6-4df6-b42d-eb8d7c5a292e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div[2]/div/div[2]/div/div[2]/a[2]</value>
+      <webElementGuid>d908fa72-603f-4eab-b207-08e8afbb0373</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/outage/monitoring/detail?type=gg&amp;data=r&amp;tab=1' and (text() = '0' or . = '0')]</value>
+      <webElementGuid>18f48801-2c8b-4774-a595-956a9b2f889a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_HUBUNGI WA General Manager UNIT</name>
+   <tag></tag>
+   <elementGuidId>a66e3faa-fd0a-4e29-9301-88a6c8d92247</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div[5]/div/div[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c04723fd-a1ac-4aef-9411-7f3bc3160788</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rounded-md bg-[#7ACE4C] text-[#FFF] uppercase text-[12px] px-[12px] py-[14px] mb-3 block w-fit</value>
+      <webElementGuid>eb85818c-cd44-4596-bc35-8f7069c3be2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>6ee655ec-6238-4ad5-8072-3866a567d8c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://wa.me/0811569213012</value>
+      <webElementGuid>db863bfc-e78e-48c8-adc5-fef58acbb334</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>HUBUNGI WA General Manager UNIT</value>
+      <webElementGuid>7eb0e328-5e4d-447f-a12d-0936ae48781c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;px-[64px] py-8 mx-auto mt-24 mb-28 max-w-screen-2xl relative&quot;]/div[@class=&quot;vcc-modal  fixed top-0 left-0 right-0 bottom-0 z-[100] bg-[#081e3d3a] backdrop-blur-sm MuiBox-root css-0&quot;]/div[@class=&quot;vcc-modal-card animate__animated animate__fadeIn w-[640px] bg-white rounded px-8 absolute top-[50%] translate-y-[-50%] left-0 right-0 z-[102] m-auto&quot;]/div[@class=&quot;vcc-modal-body mb-8&quot;]/a[@class=&quot;rounded-md bg-[#7ACE4C] text-[#FFF] uppercase text-[12px] px-[12px] py-[14px] mb-3 block w-fit&quot;]</value>
+      <webElementGuid>6dbdeb68-7087-4349-b280-8c7106e0c3ab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div[5]/div/div[2]/a</value>
+      <webElementGuid>6a939f0f-503f-43b7-9d7f-3c7fa7fb2253</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PARULIAN NOVIANDRI I'])[1]/following::a[1]</value>
+      <webElementGuid>c8468bbe-0f8e-4560-95f5-d62d8c7151b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Error!'])[1]/preceding::a[2]</value>
+      <webElementGuid>f901f774-eab8-4963-a080-0b89fe187221</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='HUBUNGI WA']/parent::*</value>
+      <webElementGuid>fa797cd7-4767-48a9-948e-8ee73c19cb7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://wa.me/0811569213012')]</value>
+      <webElementGuid>69112ea1-acd3-4d04-8722-d15c2f61218b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div[2]/a</value>
+      <webElementGuid>593c9c19-a887-472d-8269-dd8ebed71b18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://wa.me/0811569213012' and (text() = 'HUBUNGI WA General Manager UNIT' or . = 'HUBUNGI WA General Manager UNIT')]</value>
+      <webElementGuid>652d8d05-bade-4c1d-ae6d-49dd65093ad3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

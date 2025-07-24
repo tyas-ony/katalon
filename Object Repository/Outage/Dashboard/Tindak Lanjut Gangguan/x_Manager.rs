@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>x_Manager</name>
+   <tag></tag>
+   <elementGuidId>c4168e46-ffd8-41c3-8183-8eeb4f5a4862</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div[5]/div/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.close.absolute.top-6.right-6.cursor-pointer</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c65d689d-70a7-4631-aad9-bdab114dc9c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>close absolute top-6 right-6 cursor-pointer</value>
+      <webElementGuid>48fca334-d1d0-43a9-bb01-d123c54402dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;px-[64px] py-8 mx-auto mt-24 mb-28 max-w-screen-2xl relative&quot;]/div[@class=&quot;vcc-modal  fixed top-0 left-0 right-0 bottom-0 z-[100] bg-[#081e3d3a] backdrop-blur-sm MuiBox-root css-0&quot;]/div[@class=&quot;vcc-modal-card animate__animated animate__fadeIn w-[640px] bg-white rounded px-8 absolute top-[50%] translate-y-[-50%] left-0 right-0 z-[102] m-auto&quot;]/div[@class=&quot;vcc-card-header pt-6 mb-5 border-b border-[#D9D9D9]&quot;]/button[@class=&quot;close absolute top-6 right-6 cursor-pointer&quot;]</value>
+      <webElementGuid>1808a3be-b683-4aac-973c-8b1f818622f0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div[5]/div/div/button</value>
+      <webElementGuid>64ff60e8-fabb-4f9d-ab7a-4e3cd96e4907</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Feedback Pelanggan'])[10]/following::button[2]</value>
+      <webElementGuid>32f823c3-7b2c-47ee-bb28-137d07965bf7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='REFA'])[1]/preceding::button[1]</value>
+      <webElementGuid>cf862adc-cbe4-43bb-9344-54c8ead11f83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/button</value>
+      <webElementGuid>a02e2bcb-0f8c-4d62-9755-f6a4a9a6dc11</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

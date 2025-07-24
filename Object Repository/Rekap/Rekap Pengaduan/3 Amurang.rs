@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>3 Amurang</name>
+   <tag></tag>
+   <elementGuidId>47d0a2bd-e7f2-48fd-83e5-2ba479818ac4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div/div[4]/div[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>65161d43-f7cc-4bf2-859f-0ca6e58c3558</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>absolute top-0 left-0 right-0 bottom-0 hover:bg-[#27819c1a]</value>
+      <webElementGuid>484f8160-9fa7-4408-a74a-32a75382d407</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/pln-mobile/rekap-pengaduan/unit/31170?station=unit</value>
+      <webElementGuid>63f03f63-6f7a-4335-b94f-98125fcee9e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;px-[64px] py-8 mx-auto mt-28 mb-28 max-w-screen-2xl relative&quot;]/div[1]/div[@class=&quot;grid gap-4 max-w-6xl m-auto MuiBox-root css-g9so6j&quot;]/div[@class=&quot;bg-white p-4 border border-[#D9D9D9] relative rounded-[4px] hover:scale-[.97] hover:border-white transition-all MuiBox-root css-0&quot;]/a[@class=&quot;absolute top-0 left-0 right-0 bottom-0 hover:bg-[#27819c1a]&quot;]</value>
+      <webElementGuid>a5654eba-b401-47a6-ac17-785587cd66a2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div/div[4]/div[2]/a</value>
+      <webElementGuid>0adbc99c-b718-4526-a312-b7b2328638db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/pln-mobile/rekap-pengaduan/unit/31170?station=unit')]</value>
+      <webElementGuid>aad3a6e4-672c-4bf5-b3da-35bea58980e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[4]/div[2]/a</value>
+      <webElementGuid>01bb72cf-536e-4b4c-9125-10d0d26c5929</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/pln-mobile/rekap-pengaduan/unit/31170?station=unit']</value>
+      <webElementGuid>8c4989b2-1419-4ffc-b160-49e348711f89</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

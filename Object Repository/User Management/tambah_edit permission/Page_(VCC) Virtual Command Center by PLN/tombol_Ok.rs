@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tombol_Ok</name>
+   <tag></tag>
+   <elementGuidId>f411283f-14f0-4c51-ab4d-0ea26444aea0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.vcc-btn.vcc-btn-sm.contained-success.undefined</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div[4]/div/div[2]/div[2]/div[3]/button</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;__next&quot;)/div[@class=&quot;px-[64px] py-8 mx-auto mt-28 mb-28 max-w-screen-2xl relative&quot;]/div[@class=&quot;block animate__animated animate__fadeIn animate__faster bg-[#25ad1931] filter backdrop-blur-sm fixed left-0 right-0 top-0 bottom-0 z-[104] MuiBox-root css-0&quot;]/div[@class=&quot;animate__animated animate__fadeInUp animate__faster modal-box p-6 bg-[#ffffff] rounded-lg max-w-md absolute left-0 right-0 m-auto top-1/4 shadow-md&quot;]/div[@class=&quot;content flex items-center gap-2&quot;]/div[@class=&quot;desc border-l-2 border-gray-300 pl-4 py-1&quot;]/div[@class=&quot;mt-4&quot;]/button[@class=&quot;vcc-btn vcc-btn-sm contained-success undefined&quot;][count(. | //*[(text() = 'Ok' or . = 'Ok')]) = count(//*[(text() = 'Ok' or . = 'Ok')])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>0115088a-246a-44dc-8852-56e3b013cbd4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vcc-btn vcc-btn-sm contained-success undefined</value>
+      <webElementGuid>93bd8083-db59-4ef4-b7eb-e375c2975803</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ok</value>
+      <webElementGuid>be793775-0c28-4616-9f48-f6ba7704c34c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;px-[64px] py-8 mx-auto mt-28 mb-28 max-w-screen-2xl relative&quot;]/div[@class=&quot;block animate__animated animate__fadeIn animate__faster bg-[#25ad1931] filter backdrop-blur-sm fixed left-0 right-0 top-0 bottom-0 z-[104] MuiBox-root css-0&quot;]/div[@class=&quot;animate__animated animate__fadeInUp animate__faster modal-box p-6 bg-[#ffffff] rounded-lg max-w-md absolute left-0 right-0 m-auto top-1/4 shadow-md&quot;]/div[@class=&quot;content flex items-center gap-2&quot;]/div[@class=&quot;desc border-l-2 border-gray-300 pl-4 py-1&quot;]/div[@class=&quot;mt-4&quot;]/button[@class=&quot;vcc-btn vcc-btn-sm contained-success undefined&quot;]</value>
+      <webElementGuid>598519af-3e7d-479d-9c92-bfa1f3fe000a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div[4]/div/div[2]/div[2]/div[3]/button</value>
+      <webElementGuid>f65265b4-76ce-42c0-a51c-fd437e0b981f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data berhasil diubah !'])[1]/following::button[1]</value>
+      <webElementGuid>274fbcef-fd09-41ce-b2b3-8e98121eaf69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Success!'])[1]/following::button[1]</value>
+      <webElementGuid>9ecdebec-5255-4292-b25f-ecdc84f25559</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ok']/parent::*</value>
+      <webElementGuid>ac73ea0e-e398-4f1d-bda6-603abb4301eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button</value>
+      <webElementGuid>a1ec502e-06f7-4d57-8460-03dd3935d62d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Ok' or . = 'Ok')]</value>
+      <webElementGuid>3388f9f3-ae11-4cc4-aa96-f9a28dfdf5df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data berhasil ditambah !'])[1]/following::button[1]</value>
+      <webElementGuid>9224af11-2415-41fc-8a73-d2c7da59780f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

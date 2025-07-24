@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_kirim_bg-transparent --toggle-btn p-_fab310</name>
+   <tag></tag>
+   <elementGuidId>528a093a-d95a-46b3-9719-e44d9fc4f3e3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div/div/nav/div/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>72bd04ed-8d97-4f62-885d-593f1e24a6e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>!bg-transparent --toggle-btn p-2 rounded</value>
+      <webElementGuid>abae6d56-170c-4ad1-a2a6-3740b472d601</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;px-[64px] py-8 mx-auto mt-28 mb-28 max-w-screen-2xl relative&quot;]/div[1]/div[1]/nav[@class=&quot;main-navbar fixed top-0 left-0 right-0 shadow-md z-[100] bg-white&quot;]/div[@class=&quot;--left flex items-center gap-4 absolute top-0 bottom-0 left-10 h-fit m-auto&quot;]/div[@class=&quot;left-menu-toggle relative&quot;]/button[@class=&quot;!bg-transparent --toggle-btn p-2 rounded&quot;]</value>
+      <webElementGuid>61ad1909-bd21-4009-a8ed-e3c39f87af9d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div/div/nav/div/div/button</value>
+      <webElementGuid>44f2b93b-c99d-42bb-95a8-ce904d01a4a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='kirim'])[1]/following::button[1]</value>
+      <webElementGuid>99e135fc-f1f0-4044-b2c3-444359f05245</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='batal'])[1]/following::button[2]</value>
+      <webElementGuid>97231533-87cf-418c-98ad-395bd0d002eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menu 1'])[2]/preceding::button[1]</value>
+      <webElementGuid>6c64219d-2b93-4b76-8dd4-6cf47f79ab40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='absensi'])[2]/preceding::button[1]</value>
+      <webElementGuid>6acca73d-56cc-4e23-bf95-ee620dd272d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/nav/div/div/button</value>
+      <webElementGuid>00d663fa-8b48-4c10-888e-7e67d1b0a44c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

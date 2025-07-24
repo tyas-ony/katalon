@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_HUBUNGI GSM General Manager UNIT</name>
+   <tag></tag>
+   <elementGuidId>12f6e878-1df3-4f34-9be8-75b98fb82e65</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div[5]/div/div[2]/a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>dc908956-e635-40b3-a088-29ec9d4fbbe9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rounded-md bg-[#3567F5] text-[#FFF] uppercase text-[12px] px-[12px] py-[14px]</value>
+      <webElementGuid>e7f555e7-0ff8-47db-9d9d-00fc1035d76e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>5ee0d440-8d9c-4b16-aa8c-5327c8f1c70e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>tel:0811569213012</value>
+      <webElementGuid>d2253001-9cda-42ee-888a-88144e5f9df7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>HUBUNGI GSM General Manager UNIT</value>
+      <webElementGuid>485d1609-8395-46b9-ab44-504af52d0bd0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;px-[64px] py-8 mx-auto mt-24 mb-28 max-w-screen-2xl relative&quot;]/div[@class=&quot;vcc-modal  fixed top-0 left-0 right-0 bottom-0 z-[100] bg-[#081e3d3a] backdrop-blur-sm MuiBox-root css-0&quot;]/div[@class=&quot;vcc-modal-card animate__animated animate__fadeIn w-[640px] bg-white rounded px-8 absolute top-[50%] translate-y-[-50%] left-0 right-0 z-[102] m-auto&quot;]/div[@class=&quot;vcc-modal-body mb-8&quot;]/a[@class=&quot;rounded-md bg-[#3567F5] text-[#FFF] uppercase text-[12px] px-[12px] py-[14px]&quot;]</value>
+      <webElementGuid>a27ec7aa-2c7f-4eb2-a9c6-2c5e93e68ffe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div[5]/div/div[2]/a[2]</value>
+      <webElementGuid>df07d534-2eea-4639-80a4-7277d9b68c8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PARULIAN NOVIANDRI I'])[1]/following::a[2]</value>
+      <webElementGuid>d54b79b4-bb8a-400d-bb02-320ca3fa4e85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Error!'])[1]/preceding::a[1]</value>
+      <webElementGuid>1bd99ca8-2f0d-4012-b1b2-4c5321321322</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tutup'])[1]/preceding::a[1]</value>
+      <webElementGuid>fb7ff70f-098c-44f8-beb3-bd5160f0dda2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='HUBUNGI GSM']/parent::*</value>
+      <webElementGuid>a412e74e-e32a-4624-9d7c-52228354ed34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'tel:0811569213012')]</value>
+      <webElementGuid>e1b9758e-ca62-40f2-89fb-df82353ca1f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div[2]/a[2]</value>
+      <webElementGuid>90242bfd-34af-423c-880f-4704b36b1e67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'tel:0811569213012' and (text() = 'HUBUNGI GSM General Manager UNIT' or . = 'HUBUNGI GSM General Manager UNIT')]</value>
+      <webElementGuid>15cbe6e3-af04-435e-9c0b-fe972d9a0d17</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

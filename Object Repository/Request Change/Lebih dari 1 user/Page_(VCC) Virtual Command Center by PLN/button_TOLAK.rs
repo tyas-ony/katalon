@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_TOLAK</name>
+   <tag></tag>
+   <elementGuidId>6406e65c-a707-4331-9c56-821eb494db04</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.vcc-btn.vcc-btn-md.contained-reject.undefined</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div[8]/div/button[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1b418ad9-31c2-40d5-8e18-f2a3e1a501b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vcc-btn vcc-btn-md contained-reject undefined</value>
+      <webElementGuid>5954e030-19aa-487a-b2f7-d912fe85ee21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>TOLAK</value>
+      <webElementGuid>2439c011-12b5-4f59-b806-c5395f4a3749</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;px-[64px] py-8 mx-auto mt-28 mb-28 max-w-screen-2xl relative&quot;]/div[@class=&quot;floating-action open fixed bottom-6 p-6 bg-[#eff2f9] left-0 right-0 max-w-screen-2xl m-auto rounded-md z-[99]&quot;]/div[@class=&quot;flex justify-end items-center gap-4 m-auto&quot;]/button[@class=&quot;vcc-btn vcc-btn-md contained-reject undefined&quot;]</value>
+      <webElementGuid>4fd7a637-546d-4a21-aa4f-7f16fa686c97</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div[8]/div/button[3]</value>
+      <webElementGuid>ca737fde-399a-412b-bef0-a67ee1fce14e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TERIMA'])[1]/following::button[1]</value>
+      <webElementGuid>7e3c8a24-d285-44a9-88b7-e16992da53af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ya, Lanjutkan'])[1]/following::button[3]</value>
+      <webElementGuid>12b6cdc6-c9fb-4699-83f3-a65e4e8afabb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terima Request Pindah Unit'])[1]/preceding::button[1]</value>
+      <webElementGuid>3ec6e678-920d-48bd-ace2-45a8c5d0d12b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tutup'])[2]/preceding::button[1]</value>
+      <webElementGuid>08ec037e-5bec-4265-87ea-41dff223c3d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='TOLAK']/parent::*</value>
+      <webElementGuid>25a0008a-fb6a-42e7-bd4d-a1d321d4879c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[3]</value>
+      <webElementGuid>bc2b5434-0863-4d36-9c24-885bdd790b61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'TOLAK' or . = 'TOLAK')]</value>
+      <webElementGuid>0d5d03bd-ba6c-4cf6-97f8-c3f132c2ca5e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

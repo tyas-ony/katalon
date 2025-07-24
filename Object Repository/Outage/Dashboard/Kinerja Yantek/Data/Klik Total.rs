@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Klik Total</name>
+   <tag></tag>
+   <elementGuidId>9ea5edd1-220b-4192-83af-ca30a000902f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div[4]/div[4]/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2f8dd59d-c9ef-483f-9311-10173a38fb9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>px-[16px] py-[20px] flex flex-col justify-center cursor-pointer MuiBox-root css-0</value>
+      <webElementGuid>15c7fb3a-c901-42cb-9f88-ca0eea81e018</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>230Total</value>
+      <webElementGuid>ecba0a83-4367-48d8-829e-ae8ee4835192</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;px-[64px] py-8 mx-auto mt-24 mb-28 max-w-screen-2xl relative&quot;]/div[@class=&quot;md:w-full lg:w-9/12 mx-auto mb-10&quot;]/div[@class=&quot;mb-20&quot;]/div[@class=&quot;rounded grid lg:grid-cols-6 gap-4 bg-[#E7F6F9] p-[8px]&quot;]/div[@class=&quot;px-[16px] py-[20px] flex flex-col justify-center cursor-pointer MuiBox-root css-0&quot;]</value>
+      <webElementGuid>6d5be7d6-d26b-41e3-8fbc-257f7e91b396</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div[4]/div[4]/div[2]/div</value>
+      <webElementGuid>03c3bbc9-60bb-4c44-86c7-654500c35010</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MANAGER'])[4]/following::div[2]</value>
+      <webElementGuid>00c7ac05-62bb-4510-a74d-d5847de821cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='UP3 JEMBER'])[1]/following::div[2]</value>
+      <webElementGuid>b0337a23-23a9-4d5f-aa4b-e05ee70058e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Under Perform'])[4]/preceding::div[1]</value>
+      <webElementGuid>9c26f037-83c5-43eb-b96f-3c79f5b1b4d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[4]/div[2]/div</value>
+      <webElementGuid>175107c8-5527-47d3-b150-120fc8b7dca4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '230Total' or . = '230Total')]</value>
+      <webElementGuid>eeed5809-d871-4066-a689-21ecf660dd29</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

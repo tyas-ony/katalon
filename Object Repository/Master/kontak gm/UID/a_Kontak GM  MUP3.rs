@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Kontak GM  MUP3</name>
+   <tag></tag>
+   <elementGuidId>b105344c-9420-4de8-b7b5-6f6b45685713</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div/div/nav/div/div/div/div[10]/div[2]/a[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>fc90a35c-5265-4064-b896-402a6bba170d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> flex gap-3 items-center px-3 pl-5 py-2 hover:filter hover:brightness-1 hover:bg-[#e7f6f9] text-[14px]</value>
+      <webElementGuid>33e1d7d6-9f65-4819-adc2-b0d48832c814</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/master/gm</value>
+      <webElementGuid>0b580e3c-a6ec-4a79-ab32-45177d4c90de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kontak GM &amp; MUP3</value>
+      <webElementGuid>abce8ee2-395e-4430-821f-f39ba934923f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;px-[64px] py-8 mx-auto mt-24 mb-28 max-w-screen-2xl relative&quot;]/div[1]/div[@class=&quot;MuiBox-root css-0&quot;]/nav[@class=&quot;main-navbar fixed top-0 left-0 right-0 shadow-md z-[100] bg-white MuiBox-root css-0&quot;]/div[@class=&quot;--left flex items-center gap-4 absolute top-0 bottom-0 left-10 h-fit m-auto MuiBox-root css-0&quot;]/div[@class=&quot;left-menu-toggle relative&quot;]/div[@class=&quot;expanded left-menu-card px-4 py-8 bg-[#fff] rounded absolute min-w-[225px] top-[98%] animate-fadeInNav&quot;]/div[@class=&quot;menus&quot;]/div[@class=&quot;--submenu-card animate__animated animate__slideInLeft&quot;]/a[@class=&quot;flex gap-3 items-center px-3 pl-5 py-2 hover:filter hover:brightness-1 hover:bg-[#e7f6f9] text-[14px]&quot;]</value>
+      <webElementGuid>c4126b35-b486-491e-b0a3-61e64365d8d3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div/div/nav/div/div/div/div[10]/div[2]/a[5]</value>
+      <webElementGuid>8d5d7051-85e6-4f47-bcca-6fb20a5cd12b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Kontak GM &amp; MUP3')])[2]</value>
+      <webElementGuid>6884c568-9e9f-4035-bc4f-341b4979e9a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unit'])[2]/following::a[1]</value>
+      <webElementGuid>4f3796fc-66e2-46ec-b8af-a75b3700b01b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Area'])[2]/following::a[2]</value>
+      <webElementGuid>d6731ce1-ee41-4f99-bb20-069d7c33ec55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[3]/preceding::a[1]</value>
+      <webElementGuid>c4c9d720-87ca-4668-8640-adc0e9ceeb9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Outage'])[2]/preceding::a[2]</value>
+      <webElementGuid>45d61734-d724-4514-8ede-57f41c3c952a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/master/gm')])[2]</value>
+      <webElementGuid>c9ef8730-ac5e-4cdb-bc21-42288137c2b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/nav/div/div/div/div[10]/div[2]/a[5]</value>
+      <webElementGuid>b95f11c9-18c3-42c5-8532-250b447292db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/master/gm' and (text() = 'Kontak GM &amp; MUP3' or . = 'Kontak GM &amp; MUP3')]</value>
+      <webElementGuid>773e99c8-a328-4621-a42d-0ea53e6e4ef6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

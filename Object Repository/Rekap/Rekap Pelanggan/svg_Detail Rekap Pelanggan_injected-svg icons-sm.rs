@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Detail Rekap Pelanggan_injected-svg icons-sm</name>
+   <tag></tag>
+   <elementGuidId>35519d85-e10b-40b5-bcd7-5e4ccf3aad0d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.vcc-card-header.pt-6.pb-4.mb-4 > div.close.absolute.top-6.right-6.cursor-pointer > span > span > svg.injected-svg.icons-sm</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Detail Rekap Pelanggan'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>2e3e55c9-bc31-4e79-b818-866eacc610a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>3a533377-d184-4b93-bc6a-422004ae3887</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>27</value>
+      <webElementGuid>e05ec0ef-1532-4da5-b409-4cd6440e7980</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>27</value>
+      <webElementGuid>51a206e5-c873-4ee0-b54f-75f2f31fdaeb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 27 27</value>
+      <webElementGuid>e6d901ee-8b74-46a1-8c0b-49ceaaa27acb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>c65e7c40-fc4e-4e28-96a4-bdda54dac7e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>injected-svg icons-sm</value>
+      <webElementGuid>608f7a4f-0d50-4dd9-9192-4a1f26290f44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-src</name>
+      <type>Main</type>
+      <value>/icons/icons-times.svg</value>
+      <webElementGuid>a666c89e-86f4-4c9f-b7b2-2519f95fa23b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns:xlink</name>
+      <type>Main</type>
+      <value>http://www.w3.org/1999/xlink</value>
+      <webElementGuid>0e3c9531-c18d-4343-a7a7-debdff5cedbd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>618974e0-e0b7-49ac-8c2f-92e2b197aad9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;px-[64px] py-8 mx-auto mt-28 mb-28 max-w-screen-2xl relative&quot;]/div[@class=&quot;vcc-modal  fixed top-0 left-0 right-0 bottom-0 z-[100] bg-[#081e3d3a] backdrop-blur-sm MuiBox-root css-0&quot;]/div[@class=&quot;vcc-modal-card animate__animated animate__fadeIn w-[480px] bg-white rounded p-8 pt-0 absolute top-[10%] left-0 right-0 z-[102] m-auto&quot;]/div[@class=&quot;vcc-card-header pt-6 pb-4 mb-4&quot;]/div[@class=&quot;close absolute top-6 right-6 cursor-pointer&quot;]/span[1]/span[1]/svg[@class=&quot;injected-svg icons-sm&quot;]</value>
+      <webElementGuid>372abe6c-b54c-440d-919d-bb3979a74d66</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detail Rekap Pelanggan'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>80e79c0b-d68e-480e-8b6a-739c647903e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tutup'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>96a5d8b4-7284-4c51-bcce-d789abbeeeb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Informasi Pelanggan'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>ea6e2a99-2dac-4615-b0f1-af11e2fd9e02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar User'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>7c75bfbe-9e4e-4a15-bb31-e19b3cba7899</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

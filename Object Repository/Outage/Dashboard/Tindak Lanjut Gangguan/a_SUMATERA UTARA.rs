@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_SUMATERA UTARA</name>
+   <tag></tag>
+   <elementGuidId>ae7f829b-fa55-41fd-a4c9-86e7da47e1e5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div[4]/div[2]/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2f002346-bedf-4734-a94f-0cc29edfe7e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-[#2F80ED] text-[16px] font-bold sf-pro-text-md p-0 flex items-center gap-x-2</value>
+      <webElementGuid>765f0d4f-617c-4fe7-9158-8b64a38b30ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/outage/dashboard/tindak-lanjut-gangguan?level=uid&amp;unit=12</value>
+      <webElementGuid>12a54ed9-13f8-47ab-892e-1ce87087af7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SUMATERA UTARA</value>
+      <webElementGuid>102c0e36-727f-44ca-b130-fbd5c6c6a79b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;px-[64px] py-8 mx-auto mt-28 mb-28 max-w-screen-2xl relative&quot;]/div[@class=&quot;w-full lg:w-9/12 mx-auto&quot;]/div[@class=&quot;mb-20&quot;]/div[@class=&quot;flex items-center justify-between mb-4&quot;]/a[@class=&quot;text-[#2F80ED] text-[16px] font-bold sf-pro-text-md p-0 flex items-center gap-x-2&quot;]</value>
+      <webElementGuid>8f167eab-f230-4f62-b54e-6d498b2a967b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div[4]/div[2]/div/a</value>
+      <webElementGuid>2b894d2d-fcd6-46c4-aeb5-183035132321</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'SUMATERA UTARA')]</value>
+      <webElementGuid>db53bebf-2510-4d31-abd8-4a29c12691d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Feedback Pelanggan'])[1]/following::a[1]</value>
+      <webElementGuid>f4275c1b-ac5b-4632-9b29-b432d7058596</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Close'])[1]/following::a[1]</value>
+      <webElementGuid>26856fd5-0c45-41cd-b36e-ff294b93cc09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GM'])[2]/preceding::a[1]</value>
+      <webElementGuid>e186f4e5-dc37-4cd2-8c71-79f89b0e90b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Open'])[2]/preceding::a[1]</value>
+      <webElementGuid>32f19ba5-28cb-4299-ba4f-0719d4cc6f8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='SUMATERA UTARA']/parent::*</value>
+      <webElementGuid>667fc9a1-8127-4387-91d5-5f18d31ba449</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/outage/dashboard/tindak-lanjut-gangguan?level=uid&amp;unit=12')]</value>
+      <webElementGuid>7ea15978-a6fe-49b4-b062-0f8d59942658</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div/a</value>
+      <webElementGuid>7e26426f-2d97-4c7a-bffe-115ab1f16323</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/outage/dashboard/tindak-lanjut-gangguan?level=uid&amp;unit=12' and (text() = 'SUMATERA UTARA' or . = 'SUMATERA UTARA')]</value>
+      <webElementGuid>72a24387-8a14-4b04-8b9c-a76dd0da2c4e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

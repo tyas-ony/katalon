@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Pilih Area Surakarta</name>
+   <tag></tag>
+   <elementGuidId>7143dbee-cdc3-4520-8d8f-1d29d78ca072</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div/div[4]/div[3]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f943dac4-caf3-42c8-a7df-f873e0999e2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>absolute top-0 left-0 right-0 bottom-0 hover:bg-[#27819c1a]</value>
+      <webElementGuid>e06ba1e2-6ae7-43bd-acea-4d2a12577331</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/pln-mobile/rekap-transaksi?id=52050&amp;type=area</value>
+      <webElementGuid>8b1e6484-ea8a-40ea-ba22-3a910f755212</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;px-[64px] py-8 mx-auto mt-24 mb-28 max-w-screen-2xl relative&quot;]/div[1]/div[@class=&quot;grid gap-4 max-w-6xl m-auto MuiBox-root css-g9so6j&quot;]/div[@class=&quot;bg-white p-4 border border-[#D9D9D9] relative rounded-[4px] hover:scale-[.97] hover:border-white transition-all MuiBox-root css-0&quot;]/a[@class=&quot;absolute top-0 left-0 right-0 bottom-0 hover:bg-[#27819c1a]&quot;]</value>
+      <webElementGuid>7dab907c-7630-4762-8f93-8279e0972364</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div/div[4]/div[3]/a</value>
+      <webElementGuid>c6229e9a-f72f-4a14-9d03-b6482aff43da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/pln-mobile/rekap-transaksi?id=52050&amp;type=area')]</value>
+      <webElementGuid>d925b077-5e91-42cd-8a5d-0859c67ef98c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a</value>
+      <webElementGuid>0ba29c6d-9405-4397-8730-6e68ec55f539</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/pln-mobile/rekap-transaksi?id=52050&amp;type=area']</value>
+      <webElementGuid>fb4ff44f-6c24-45d5-94db-b9e550120055</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

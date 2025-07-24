@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_User Approval</name>
+   <tag></tag>
+   <elementGuidId>185cc5bd-91bc-4699-861b-ce9d58dc9fc0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div/div/nav/div/div/div/div[4]/div[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c15957ac-7a05-4162-acdd-b7f5e92e7244</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> flex gap-3 items-center px-3 pl-5 py-2 hover:filter hover:brightness-1 hover:bg-[#e7f6f9] text-[14px]</value>
+      <webElementGuid>26701342-74ea-4ef4-861e-c987e6e61518</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/approval/user</value>
+      <webElementGuid>a39509ea-668c-4f61-8707-eceeba445c91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>User Approval</value>
+      <webElementGuid>d575d8c4-6480-4dc2-af80-f600c1e566a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;px-[64px] py-8 mx-auto mt-28 mb-28 max-w-screen-2xl relative&quot;]/div[1]/div[1]/nav[@class=&quot;main-navbar fixed top-0 left-0 right-0 shadow-md z-[100] bg-white&quot;]/div[@class=&quot;--left flex items-center gap-4 absolute top-0 bottom-0 left-10 h-fit m-auto&quot;]/div[@class=&quot;left-menu-toggle relative&quot;]/div[@class=&quot;expanded left-menu-card px-4 py-8 bg-[#fff] rounded absolute min-w-[225px] top-[98%] animate-fadeInNav&quot;]/div[@class=&quot;menus&quot;]/div[@class=&quot;--submenu-card animate__animated animate__slideInLeft&quot;]/a[@class=&quot;flex gap-3 items-center px-3 pl-5 py-2 hover:filter hover:brightness-1 hover:bg-[#e7f6f9] text-[14px]&quot;]</value>
+      <webElementGuid>afe64405-0ae3-4d7b-9cdc-7b8dd3143c12</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div/div/nav/div/div/div/div[4]/div[2]/a</value>
+      <webElementGuid>4130515b-2eaf-4599-ae22-4a51945f4e44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'User Approval')])[2]</value>
+      <webElementGuid>3e589540-a4dd-4faf-b438-041007ff4994</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Approval'])[2]/following::a[1]</value>
+      <webElementGuid>c319b136-0887-4cfc-a87d-20f2b0271833</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Permission'])[2]/following::a[1]</value>
+      <webElementGuid>3a4773ae-d8ea-479e-93c3-372780f956b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Request Change'])[2]/preceding::a[1]</value>
+      <webElementGuid>4e77f0c4-c52f-4739-8d92-5e5e6aca553f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Broadcast'])[2]/preceding::a[2]</value>
+      <webElementGuid>5b415762-4be6-4ecc-8040-3c4267149163</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/approval/user')])[2]</value>
+      <webElementGuid>22c9c0d7-159b-448b-8373-2bc1f5e45a4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/nav/div/div/div/div[4]/div[2]/a</value>
+      <webElementGuid>ec9522ca-2f89-4854-8bec-ea66c4ab2c62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/approval/user' and (text() = 'User Approval' or . = 'User Approval')]</value>
+      <webElementGuid>860a35e3-b668-4083-9a62-08f2210fbadd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

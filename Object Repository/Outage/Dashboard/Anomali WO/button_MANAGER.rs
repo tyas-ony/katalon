@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_MANAGER</name>
+   <tag></tag>
+   <elementGuidId>ac4b93f1-a915-4bf2-8886-55ba3d685efc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div[4]/div/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d174e745-5297-42ca-a196-731ef5ec11d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rounded bg-[#25D366] text-[12px] text-[#FFF] px-[18px] py-[6px]</value>
+      <webElementGuid>2c655b21-521b-4e43-8027-c793e36f5366</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>MANAGER</value>
+      <webElementGuid>0ac0d034-b78c-47e4-841d-d0dfde29f31b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;px-[64px] py-8 mx-auto mt-24 mb-28 max-w-screen-2xl relative&quot;]/div[@class=&quot;md:w-full lg:w-9/12 mx-auto&quot;]/div[@class=&quot;mb-20&quot;]/div[@class=&quot;flex items-center justify-between mb-4&quot;]/button[@class=&quot;rounded bg-[#25D366] text-[12px] text-[#FFF] px-[18px] py-[6px]&quot;]</value>
+      <webElementGuid>de316c44-fe37-4edc-bd30-4f3485cfa80d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div[4]/div/div/button</value>
+      <webElementGuid>90003c00-7687-4fc5-b2d7-cd612210b043</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BALI'])[1]/following::button[1]</value>
+      <webElementGuid>1db4b405-2350-48ea-9b63-71c099942572</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tanggal Data : 2024-07-07 dari pukul 00:00 hingga 13:45:59'])[1]/following::button[1]</value>
+      <webElementGuid>9e98bb05-218c-4a2c-9714-c6f7e5fd085c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Laporan Berulang'])[1]/preceding::button[1]</value>
+      <webElementGuid>68853165-ecf6-4406-934c-6ebca3c2303e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skip Step'])[1]/preceding::button[2]</value>
+      <webElementGuid>53297e9f-0706-48bd-b1bc-f8eaa74ad2dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='MANAGER']/parent::*</value>
+      <webElementGuid>aa7b6a2e-9316-40e6-b179-17c052ce7def</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/button</value>
+      <webElementGuid>e195814c-b81b-434f-aaba-f5df07e149dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'MANAGER' or . = 'MANAGER')]</value>
+      <webElementGuid>a42f4c50-84a7-41e2-aba9-467ebbb89b9e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

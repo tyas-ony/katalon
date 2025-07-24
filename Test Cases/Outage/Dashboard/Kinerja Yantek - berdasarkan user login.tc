@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Kinerja Yantek - berdasarkan user login</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b2ce970a-a763-4321-8f52-3527da121f4a</testCaseGuid>
+</TestCaseEntity>

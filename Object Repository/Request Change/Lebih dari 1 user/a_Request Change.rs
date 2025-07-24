@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Request Change</name>
+   <tag></tag>
+   <elementGuidId>42ec0fc3-2ce0-4ed8-a6b6-90198a6d836b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div/div/nav/div/div/div/div[4]/div[2]/a[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>8509b0a5-d6f7-46a8-9f88-ddf52f860195</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> flex gap-3 items-center px-3 pl-5 py-2 hover:filter hover:brightness-1 hover:bg-[#e7f6f9] text-[14px]</value>
+      <webElementGuid>1e6ea210-870f-47ce-bd34-860ee491847a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/approval/request-change</value>
+      <webElementGuid>342a5436-f3b5-4349-b135-fa7876883f22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Request Change</value>
+      <webElementGuid>73848f72-cca6-4c2f-8c07-fa34142cebb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;px-[64px] py-8 mx-auto mt-28 mb-28 max-w-screen-2xl relative&quot;]/div[1]/div[1]/nav[@class=&quot;main-navbar fixed top-0 left-0 right-0 shadow-md z-[100] bg-white&quot;]/div[@class=&quot;--left flex items-center gap-4 absolute top-0 bottom-0 left-10 h-fit m-auto&quot;]/div[@class=&quot;left-menu-toggle relative&quot;]/div[@class=&quot;expanded left-menu-card px-4 py-8 bg-[#fff] rounded absolute min-w-[225px] top-[98%] animate-fadeInNav&quot;]/div[@class=&quot;menus&quot;]/div[@class=&quot;--submenu-card animate__animated animate__slideInLeft&quot;]/a[@class=&quot;flex gap-3 items-center px-3 pl-5 py-2 hover:filter hover:brightness-1 hover:bg-[#e7f6f9] text-[14px]&quot;]</value>
+      <webElementGuid>cd5a42f0-105f-4e67-9712-8980443407c1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div/div/nav/div/div/div/div[4]/div[2]/a[2]</value>
+      <webElementGuid>c63b94d8-990e-4065-b09c-f3dc9677cfbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Request Change')])[2]</value>
+      <webElementGuid>23825dae-3518-4446-9279-bcea31670d6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Approval'])[2]/following::a[1]</value>
+      <webElementGuid>e820aa94-9c68-4926-8624-c69528522438</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Approval'])[2]/following::a[2]</value>
+      <webElementGuid>1de81ef3-5d4e-48ab-8915-1d2fa9d842ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Broadcast'])[2]/preceding::a[1]</value>
+      <webElementGuid>2e5d0d0a-431f-4c63-80dc-ce4207d29715</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menu 2'])[2]/preceding::a[2]</value>
+      <webElementGuid>d377eaf1-9812-44be-b8bf-5ad369916c3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/approval/request-change')])[2]</value>
+      <webElementGuid>6640683f-998f-4e6e-bfc0-ec2af9a96928</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/nav/div/div/div/div[4]/div[2]/a[2]</value>
+      <webElementGuid>bcdcac30-2927-4df8-8d59-5f2b37fba772</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/approval/request-change' and (text() = 'Request Change' or . = 'Request Change')]</value>
+      <webElementGuid>db52ff00-24f6-4b26-9faf-5f125c77491a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

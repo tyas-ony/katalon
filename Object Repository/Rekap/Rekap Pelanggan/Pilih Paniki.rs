@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Pilih Paniki</name>
+   <tag></tag>
+   <elementGuidId>ec82bb91-76e6-4cb3-b28f-d401b1df9abe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div/div[5]/div[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>08ad0733-4195-4a84-aa5a-ca3739ba115b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>absolute top-0 left-0 right-0 bottom-0 hover:bg-[#27819c1a]</value>
+      <webElementGuid>ebbbfcde-858b-4eca-b5f0-807284aa081d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/pln-mobile/rekap-pelanggan/unit/31190?meter_type=all&amp;&amp;station=unit</value>
+      <webElementGuid>6f362cd8-2427-462f-bc3a-5edd94ecc79e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;px-[64px] py-8 mx-auto mt-24 mb-28 max-w-screen-2xl relative&quot;]/div[1]/div[@class=&quot;grid gap-4 max-w-6xl m-auto MuiBox-root css-g9so6j&quot;]/div[@class=&quot;bg-white p-4 border border-[#D9D9D9] relative rounded-[4px] hover:scale-[.97] hover:border-white transition-all MuiBox-root css-0&quot;]/a[@class=&quot;absolute top-0 left-0 right-0 bottom-0 hover:bg-[#27819c1a]&quot;]</value>
+      <webElementGuid>ffa8df98-a1f9-4470-bba3-bc6e8ad4b13d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div/div[5]/div[2]/a</value>
+      <webElementGuid>20bc5a97-d8a8-4884-96a9-0c70a48bf3e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/pln-mobile/rekap-pelanggan/unit/31190?meter_type=all&amp;&amp;station=unit')]</value>
+      <webElementGuid>d887496e-e235-42a3-8716-cfa032b05efe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/a</value>
+      <webElementGuid>ca7a7c54-e73a-4aed-97ff-41e202483805</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/pln-mobile/rekap-pelanggan/unit/31190?meter_type=all&amp;&amp;station=unit']</value>
+      <webElementGuid>6fc7ea09-16ee-47a8-b3fa-812c8d1d4c2b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Pilih Induk Banten</name>
+   <tag></tag>
+   <elementGuidId>8d7851fd-5f7e-4e7f-823e-172f2a3d4371</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div/div[4]/div[24]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>52509108-e910-406f-bcbc-77769cfcb8ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>absolute top-0 left-0 right-0 bottom-0 hover:bg-[#27819c1a]</value>
+      <webElementGuid>b461cddc-67f6-41a8-9abe-f3d68f232262</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/pln-mobile/rekap-transaksi?id=56&amp;type=induk</value>
+      <webElementGuid>ab32fce1-e5ac-44e1-80c2-c4fe5f55ed7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;px-[64px] py-8 mx-auto mt-28 mb-28 max-w-screen-2xl relative&quot;]/div[1]/div[@class=&quot;grid gap-4 max-w-6xl m-auto MuiBox-root css-g9so6j&quot;]/div[@class=&quot;bg-white p-4 border border-[#D9D9D9] relative rounded-[4px] hover:scale-[.97] hover:border-white transition-all MuiBox-root css-0&quot;]/a[@class=&quot;absolute top-0 left-0 right-0 bottom-0 hover:bg-[#27819c1a]&quot;]</value>
+      <webElementGuid>e294355e-9e6a-4708-9286-6c07dc8c3101</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div/div[4]/div[24]/a</value>
+      <webElementGuid>94b37435-1927-4f51-8c8b-dc2807bced5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/pln-mobile/rekap-transaksi?id=56&amp;type=induk')]</value>
+      <webElementGuid>999694f1-0bd0-4afd-bb8a-18914edb64a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[24]/a</value>
+      <webElementGuid>7d93a5e3-ff66-4f06-ad0c-4befc61b3934</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/pln-mobile/rekap-transaksi?id=56&amp;type=induk']</value>
+      <webElementGuid>521db7b0-e427-4c89-8686-8e3b76b3679d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

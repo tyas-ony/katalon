@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>P_Gardu</name>
+   <tag></tag>
+   <elementGuidId>07969808-faff-4c9e-af13-2cd1b195d0f7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div[5]/div[4]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c876ca0a-3428-4e50-9175-b03fce34e2ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>border border-[#D6EFF4] bg-[#FFF] p-4 flex flex-col justify-center hover:scale-[.97] transition-all</value>
+      <webElementGuid>93601c9d-bb24-4437-802a-4c85186c07ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Gardu276</value>
+      <webElementGuid>88920cc1-845a-4c2e-a494-27a08e5aeb54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;px-[64px] py-8 mx-auto mt-24 mb-28 max-w-screen-2xl relative&quot;]/div[@class=&quot;md:w-full lg:w-9/12 mx-auto mb-10 bg-[#E7F6F9] p-4&quot;]/div[@class=&quot;grid lg:grid-cols-6&quot;]/button[@class=&quot;border border-[#D6EFF4] bg-[#FFF] p-4 flex flex-col justify-center hover:scale-[.97] transition-all&quot;]</value>
+      <webElementGuid>4bc21113-aab4-4ffb-9e10-02f588283645</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div[5]/div[4]/button</value>
+      <webElementGuid>1610206d-963f-4ee4-8828-edbb21fb28b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PEMELIHARAAN JARINGAN'])[1]/following::button[1]</value>
+      <webElementGuid>0b19cb81-a5db-444e-8930-105647c75b98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pelanggan Terdampak'])[1]/following::button[1]</value>
+      <webElementGuid>27af343f-e96e-40df-8931-983163e7725d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Penyulang'])[2]/preceding::button[1]</value>
+      <webElementGuid>4354c99d-8728-48a6-a058-f22aec4d4714</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[4]/button</value>
+      <webElementGuid>1c71f0eb-c4ab-419c-bd19-46edeffd18a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Gardu276' or . = 'Gardu276')]</value>
+      <webElementGuid>201a4a50-21bf-4cdd-83af-20bdcd079d5d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

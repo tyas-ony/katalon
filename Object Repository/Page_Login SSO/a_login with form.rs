@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_login with form</name>
+   <tag></tag>
+   <elementGuidId>a6a763ab-f381-4c41-aa42-5275c209782f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.text-capitalize.btn-pln.--view</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='lgn-pln-main']/div[2]/div/div[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e2eeb10b-9dd2-41a6-aa22-d5e473c74058</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://vcc.pln.co.id/login-form</value>
+      <webElementGuid>d445388f-3973-426d-8540-7961dd2b3ad2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-capitalize btn-pln --view</value>
+      <webElementGuid>a539301b-aa6f-48cd-8fa5-dbf177575859</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>login with form</value>
+      <webElementGuid>29c83533-fde6-45b9-9e2d-79fbc5cb66dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;lgn-pln-main&quot;)/div[@class=&quot;ct-log&quot;]/div[@class=&quot;ntlgn grid_layouts gr-main-lgn-pln&quot;]/div[2]/a[@class=&quot;text-capitalize btn-pln --view&quot;]</value>
+      <webElementGuid>e9526a0d-a164-4c97-9faf-cbf4a3c96458</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='lgn-pln-main']/div[2]/div/div[2]/a</value>
+      <webElementGuid>240ea2f1-ac17-4fca-9080-59c16474a6bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'login with form')]</value>
+      <webElementGuid>51d010ef-e052-4c11-bc38-86c083403fb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login With SSO'])[1]/following::a[1]</value>
+      <webElementGuid>48a47ee4-6c2f-4573-97a5-6be9b9af86b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='login with form']/parent::*</value>
+      <webElementGuid>3df526aa-b8f5-4a7d-aa21-6fce3a41758f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://vcc.pln.co.id/login-form')]</value>
+      <webElementGuid>8809d9b8-2177-4680-b69d-61f878d99904</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a</value>
+      <webElementGuid>a805b10b-49a7-47dd-9bb8-1c171bfc1e95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://vcc.pln.co.id/login-form' and (text() = 'login with form' or . = 'login with form')]</value>
+      <webElementGuid>35cb8fbf-cb32-4dab-ac7c-cd6f67f67238</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>pindah unit valid data</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f02bc6c6-9d68-49b1-9b25-a15b06427d45</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7cc952c5-75c2-4898-9919-c924b108b99c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'C:\\\\Users\\\\ONY-012\\\\Dummy 1.docx'</defaultValue>
+      <description></description>
+      <id>7cc952c5-75c2-4898-9919-c924b108b99c</id>
+      <masked>false</masked>
+      <name>file</name>
+   </variable>
+</TestCaseEntity>

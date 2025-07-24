@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_NEXT_injected-svg icons-sm</name>
+   <tag></tag>
+   <elementGuidId>e5feecce-ff0d-44c1-8e18-5ed6883802d5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.close.absolute.top-3.right-3.cursor-pointer > span > span > svg.injected-svg.icons-sm</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='NEXT'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>620d882b-14ae-43ad-b3c1-5ce4f6e474b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>2546b39d-6965-44ed-b08d-f4c47161fe15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>27</value>
+      <webElementGuid>41c69c11-da25-4eec-b73e-ef1138739c42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>27</value>
+      <webElementGuid>9dd8c52d-e461-40b3-bd6e-b9e04bb88396</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 27 27</value>
+      <webElementGuid>ab654a64-6c3a-45a9-ba50-2fc62491bb63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>8fb3a4a7-fd96-49c0-8e1b-3464d0564460</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>injected-svg icons-sm</value>
+      <webElementGuid>3c7653f5-2453-4c1e-86ba-3a255294a7ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-src</name>
+      <type>Main</type>
+      <value>/icons/icons-times.svg</value>
+      <webElementGuid>17b5eff1-fa3a-48dd-a426-f550431cb844</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns:xlink</name>
+      <type>Main</type>
+      <value>http://www.w3.org/1999/xlink</value>
+      <webElementGuid>e9278ae0-7be0-414a-b824-65eeffe98e34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>4faa883a-8304-4ab9-b1ba-88b7053d842e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;px-[64px] py-8 mx-auto mt-28 mb-28 max-w-screen-2xl relative&quot;]/div[@class=&quot;block animate__animated animate__fadeIn animate__faster bg-[#ff1d1d25] filter backdrop-blur-sm fixed left-0 right-0 top-0 bottom-0 z-[104] MuiBox-root css-0&quot;]/div[@class=&quot;animate__animated animate__fadeInUp animate__faster modal-box p-6 bg-[#ffffff] rounded-lg max-w-md absolute left-0 right-0 m-auto top-1/4 shadow-md&quot;]/div[@class=&quot;close absolute top-3 right-3 cursor-pointer&quot;]/span[1]/span[1]/svg[@class=&quot;injected-svg icons-sm&quot;]</value>
+      <webElementGuid>b541a8cd-cc01-49af-badf-8eaa693ad7e7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NEXT'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>46d9442e-93ee-42a6-bd79-0fcce2434028</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='...'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>83b5340b-cb2f-4a54-8daf-5fa9f18d1adc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Error!'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>01e67f51-dd32-4465-87cd-b07a7e109230</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

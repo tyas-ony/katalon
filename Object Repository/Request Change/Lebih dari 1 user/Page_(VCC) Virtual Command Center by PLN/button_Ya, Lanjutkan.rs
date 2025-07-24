@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Ya, Lanjutkan</name>
+   <tag></tag>
+   <elementGuidId>f4e307d7-631b-4aba-9a48-dc05124bf0b3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div[10]/div/div[2]/div[2]/div[3]/button[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5eb4497e-cad2-494c-b4f2-9497ecd9bd2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vcc-btn vcc-btn-sm contained-success undefined</value>
+      <webElementGuid>bf7512c9-8c22-4ea7-9c09-3111d2debcfd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ya, Lanjutkan</value>
+      <webElementGuid>1ccdd6e6-dc30-44af-87d8-99f4e9d2688b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;px-[64px] py-8 mx-auto mt-28 mb-28 max-w-screen-2xl relative&quot;]/div[@class=&quot;block animate__animated animate__fadeIn animate__faster bg-[#ffdc163f] filter backdrop-blur-sm fixed left-0 right-0 top-0 bottom-0 z-[104] MuiBox-root css-0&quot;]/div[@class=&quot;animate__animated animate__fadeInUp animate__faster modal-box p-6 bg-[#ffffff] rounded-lg max-w-md absolute left-0 right-0 m-auto top-1/4 shadow-md&quot;]/div[@class=&quot;content flex items-center gap-2&quot;]/div[@class=&quot;desc border-l-2 border-gray-300 pl-4 py-1&quot;]/div[@class=&quot;mt-4 flex items-center&quot;]/button[@class=&quot;vcc-btn vcc-btn-sm contained-success undefined&quot;]</value>
+      <webElementGuid>b72df738-8c81-47fb-b544-655fb0dfa085</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div[10]/div/div[2]/div[2]/div[3]/button[2]</value>
+      <webElementGuid>654bc2c0-5b13-4444-8650-5b9dc1982edd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Batal'])[2]/following::button[1]</value>
+      <webElementGuid>ba2d1025-60aa-4405-bfb1-494cda92f9ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Success!'])[2]/preceding::button[1]</value>
+      <webElementGuid>e90d0be6-3106-48fb-8916-e4699cdc3e15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ok'])[2]/preceding::button[1]</value>
+      <webElementGuid>c262e48d-6d3f-4f82-ba29-1a1bb2061829</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/div/div[2]/div[2]/div[3]/button[2]</value>
+      <webElementGuid>bf7a8cbb-e889-48d2-87ad-83d947ad1d77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Ya, Lanjutkan' or . = 'Ya, Lanjutkan')]</value>
+      <webElementGuid>25134e35-de52-48af-b330-6a7afc2b9f57</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

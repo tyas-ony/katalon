@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>pesan pilih unit</name>
+   <tag></tag>
+   <elementGuidId>3b8cf7f5-6b3d-46fe-a328-0d6fc6583f3d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@id=':r7:-helper-text']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>02c50995-bab0-4e35-9e98-0237bd746374</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiFormHelperText-root Mui-disabled Mui-error MuiFormHelperText-sizeMedium MuiFormHelperText-contained css-v7esy</value>
+      <webElementGuid>ad44a3d5-6966-47f1-be7b-fea30c7629b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>:r7:-helper-text</value>
+      <webElementGuid>046e645b-5a79-41fc-bf53-bc6a7d395c24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Silahkan pilih Unit terlebih dahulu.</value>
+      <webElementGuid>1c511422-4ab4-45b9-a302-6527bdf0bc02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;:r7:-helper-text&quot;)</value>
+      <webElementGuid>758c212e-b12e-4471-b27c-cd78d949ea49</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@id=':r7:-helper-text']</value>
+      <webElementGuid>45e8a79e-37e2-4e26-9f7c-54a3aa8679e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/div[2]/form/div[5]/div[2]/div/div/p</value>
+      <webElementGuid>6695c8d7-efae-4a3d-ae64-a7f966220cf8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[7]/following::p[1]</value>
+      <webElementGuid>d1d2dc43-b095-4747-bf36-e20dfff7e119</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Unit'])[1]/following::p[1]</value>
+      <webElementGuid>9af44308-f1d7-4f16-b956-80bc1085c52c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*Mohon dipastikan Level Unit dan Kode Unit yang Anda pilih sesuai dengan lokasi Anda sebenarnya'])[1]/preceding::p[1]</value>
+      <webElementGuid>c4163fbb-f006-4e2b-a38a-0d7841d384be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='cancel'])[1]/preceding::p[1]</value>
+      <webElementGuid>f3016ae7-7eb3-493a-917f-f20f03701a08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Silahkan pilih Unit terlebih dahulu.']/parent::*</value>
+      <webElementGuid>95ee906c-bae4-40c2-a8c7-e6fe83fe1e98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/p</value>
+      <webElementGuid>db871dbc-e485-4c06-a893-3ca02675d13c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@id = ':r7:-helper-text' and (text() = 'Silahkan pilih Unit terlebih dahulu.' or . = 'Silahkan pilih Unit terlebih dahulu.')]</value>
+      <webElementGuid>cf4f35bd-8f6a-4c77-a080-28fee3d5f04e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

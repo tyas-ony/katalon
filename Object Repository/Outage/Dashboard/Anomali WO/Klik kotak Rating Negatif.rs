@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Klik kotak Rating Negatif</name>
+   <tag></tag>
+   <elementGuidId>4d9e7d08-6341-438b-88b1-de8a7b4af4c7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div[4]/div/div[2]/div/button[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b9373924-4f31-4df5-a324-9ab6846a4720</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-left rounded bg-[#FF0000] px-[16px] py-[20px] hover:scale-[.97] transition-all</value>
+      <webElementGuid>c8aa347c-501c-457a-b1b2-8cb58177b15f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>0Rating Negatif</value>
+      <webElementGuid>554e377c-4c8a-43ab-a606-958f4605f54d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;px-[64px] py-8 mx-auto mt-24 mb-28 max-w-screen-2xl relative&quot;]/div[@class=&quot;md:w-full lg:w-9/12 mx-auto&quot;]/div[@class=&quot;mb-20&quot;]/div[@class=&quot;rounded grid lg:grid-cols-6 gap-4 bg-[#E7F6F9] p-[8px]&quot;]/div[@class=&quot;grid md:grid-cols-3 lg:col-span-5 gap-2 false&quot;]/button[@class=&quot;text-left rounded bg-[#FF0000] px-[16px] py-[20px] hover:scale-[.97] transition-all&quot;]</value>
+      <webElementGuid>d7ccb257-da6b-42b3-b926-b8130aab91b5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div[4]/div/div[2]/div/button[3]</value>
+      <webElementGuid>8ccbc562-bb61-4016-a95a-baa59b297146</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skip Step'])[1]/following::button[1]</value>
+      <webElementGuid>0b162d56-df46-408e-bec7-1d9fad78c304</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Laporan Berulang'])[1]/following::button[2]</value>
+      <webElementGuid>e9452740-a2cc-4ad0-adc7-b2cc625f6b9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Anomali'])[1]/preceding::button[1]</value>
+      <webElementGuid>a00e79ce-a3ac-4683-92af-b647190b3a26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[3]</value>
+      <webElementGuid>f427928e-aa80-4158-a456-430482f2fe36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = '0Rating Negatif' or . = '0Rating Negatif')]</value>
+      <webElementGuid>eeaf15e5-1cdf-4249-a662-a29d2b6c33c5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

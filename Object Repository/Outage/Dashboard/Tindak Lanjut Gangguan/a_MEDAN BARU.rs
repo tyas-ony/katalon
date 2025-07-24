@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_MEDAN BARU</name>
+   <tag></tag>
+   <elementGuidId>879251be-cffe-45e1-809d-0880bf69ceae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div[4]/div[4]/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f8259e56-eed4-46e6-934f-4a618511911c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-[#2F80ED] text-[16px] font-bold sf-pro-text-md p-0 flex items-center gap-x-2</value>
+      <webElementGuid>e63431bd-8375-4d29-932c-02372a229456</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/outage/dashboard/tindak-lanjut-gangguan?level=ulp&amp;unit=12002</value>
+      <webElementGuid>3edd4d54-0a9c-4b8f-a409-33726f9d19a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>MEDAN BARU</value>
+      <webElementGuid>29b06bda-ba1c-46b2-a59a-404a9f7f67d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;px-[64px] py-8 mx-auto mt-28 mb-28 max-w-screen-2xl relative&quot;]/div[@class=&quot;w-full lg:w-9/12 mx-auto&quot;]/div[@class=&quot;mb-20&quot;]/div[@class=&quot;flex items-center justify-between mb-4&quot;]/a[@class=&quot;text-[#2F80ED] text-[16px] font-bold sf-pro-text-md p-0 flex items-center gap-x-2&quot;]</value>
+      <webElementGuid>5492897c-3dbf-4bf6-9d59-ac615bcd19bc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div[4]/div[4]/div/a</value>
+      <webElementGuid>8f5cb8b3-7a33-4fb1-b54d-3c039a654b07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'MEDAN BARU')]</value>
+      <webElementGuid>c9fcd1ba-1fe9-4fce-a834-dcb15f22bc2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Feedback Pelanggan'])[3]/following::a[1]</value>
+      <webElementGuid>1e6887aa-7fe6-49d1-9362-4854cc07ade9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Close'])[3]/following::a[1]</value>
+      <webElementGuid>820f9cd9-95ce-4e07-821a-24ed34caa8f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Open'])[4]/preceding::a[1]</value>
+      <webElementGuid>c3a90a60-9bbc-4f08-aa93-7032b8e71a16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Belum Tindak Lanjut'])[4]/preceding::a[1]</value>
+      <webElementGuid>2525459e-3b8d-426e-bba7-debe0c8e2f09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='MEDAN BARU']/parent::*</value>
+      <webElementGuid>22c3b696-fc59-4025-800b-50fd207dcc47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/outage/dashboard/tindak-lanjut-gangguan?level=ulp&amp;unit=12002')]</value>
+      <webElementGuid>35c84e9e-015d-405a-a0a6-a00d3a74d6be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[4]/div/a</value>
+      <webElementGuid>0efef719-f8b2-4997-8e09-ea74269fd843</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/outage/dashboard/tindak-lanjut-gangguan?level=ulp&amp;unit=12002' and (text() = 'MEDAN BARU' or . = 'MEDAN BARU')]</value>
+      <webElementGuid>73761991-f65b-4487-9ed9-fdcf0ee81330</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>G_Lainnya</name>
+   <tag></tag>
+   <elementGuidId>a13cf758-421f-4fc9-9c95-ee256e999fac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div[5]/div[2]/button[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9f295322-5518-4f03-ada0-32bf4bedf774</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>border border-[#D6EFF4] bg-[#FFF] p-4 flex flex-col justify-center hover:scale-[.97] transition-all</value>
+      <webElementGuid>7e7ede31-d7d1-48cd-9e4e-ce94dff94dc6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lainnya171</value>
+      <webElementGuid>450d117f-9ad5-4dab-a1d1-5a7d5a843454</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;px-[64px] py-8 mx-auto mt-24 mb-28 max-w-screen-2xl relative&quot;]/div[@class=&quot;md:w-full lg:w-9/12 mx-auto mb-10 bg-[#E7F6F9] p-4&quot;]/div[@class=&quot;grid lg:grid-cols-6 mb-5&quot;]/button[@class=&quot;border border-[#D6EFF4] bg-[#FFF] p-4 flex flex-col justify-center hover:scale-[.97] transition-all&quot;]</value>
+      <webElementGuid>703e940c-59f6-46f0-a707-7f4b7ec43df9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div[5]/div[2]/button[4]</value>
+      <webElementGuid>ae6c36f7-d661-4ce8-951c-65687584b47d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trafo'])[1]/following::button[1]</value>
+      <webElementGuid>f17cae38-3fa2-4e30-bec2-c57af9218b9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Penyulang'])[1]/following::button[2]</value>
+      <webElementGuid>d87bc58e-28a8-4140-8b97-e4fba8d1ee52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pelanggan Terdampak'])[1]/preceding::button[1]</value>
+      <webElementGuid>daa14e91-af90-43f0-a77e-73c7f02af43e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button[4]</value>
+      <webElementGuid>08731008-e2cb-4b64-b64e-e8e5cae6201b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Lainnya171' or . = 'Lainnya171')]</value>
+      <webElementGuid>3d65977b-699f-42da-852d-db38cdfc5182</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

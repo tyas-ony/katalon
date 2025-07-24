@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_cancel</name>
+   <tag></tag>
+   <elementGuidId>9c744cb5-fc11-45a9-b149-25921a0ae0fd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.vcc-btn.vcc-btn-md.text-danger.uppercase</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div/div[3]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>afc35526-f9ef-4b73-bbdc-8f2505a7bd6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vcc-btn vcc-btn-md text-danger uppercase</value>
+      <webElementGuid>7727f1b0-50db-4f59-a103-996972075f51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>cancel</value>
+      <webElementGuid>57dc58c8-7cc6-44f1-9b29-118aac0cf448</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;auth-page h-screen&quot;]/div[@class=&quot;auth-card w-[500px] !pt-[32px]&quot;]/div[@class=&quot;animate__animated animate__fadeIn&quot;]/div[@class=&quot;flex gap-4&quot;]/button[@class=&quot;vcc-btn vcc-btn-md text-danger uppercase&quot;]</value>
+      <webElementGuid>9787f6c3-511d-4213-ae8c-0002f8b065fd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/div[3]/button</value>
+      <webElementGuid>e00bb47b-969e-4ce6-9fe7-60743ce04564</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*Mohon dipastikan Level Unit dan Kode Unit yang Anda pilih sesuai dengan lokasi Anda sebenarnya'])[1]/following::button[1]</value>
+      <webElementGuid>4f5af7a0-f758-489a-8133-7664789c9dc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[7]/following::button[1]</value>
+      <webElementGuid>29927929-f791-4e3a-8762-1c1b15627264</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='register'])[1]/preceding::button[1]</value>
+      <webElementGuid>e19c945d-c730-4da5-b73e-7e7c2edbc7b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mohon tunggu, sedang memuat data...'])[1]/preceding::button[2]</value>
+      <webElementGuid>b8e82710-b2e4-4302-bc30-53dde8347707</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='cancel']/parent::*</value>
+      <webElementGuid>dc5a5011-5ec2-4fd1-8a17-41619a6efda7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button</value>
+      <webElementGuid>d10736ca-9a62-4481-b0a0-a99d85133b2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'cancel' or . = 'cancel')]</value>
+      <webElementGuid>95061faa-edf9-4b8d-a50a-57ad7002f488</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

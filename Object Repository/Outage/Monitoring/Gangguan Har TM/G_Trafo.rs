@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>G_Trafo</name>
+   <tag></tag>
+   <elementGuidId>dd177332-50bc-4cb5-9286-0842d9ebd29d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div[5]/div[2]/button[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f38ea265-62f5-45f8-bf8f-3cb3baacfabd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>border border-[#D6EFF4] bg-[#FFF] p-4 flex flex-col justify-center hover:scale-[.97] transition-all</value>
+      <webElementGuid>bdc0f09e-b497-4e72-995f-50c92df622da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Trafo542</value>
+      <webElementGuid>e621a44d-8d1f-471a-b307-5de809451b07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;px-[64px] py-8 mx-auto mt-24 mb-28 max-w-screen-2xl relative&quot;]/div[@class=&quot;md:w-full lg:w-9/12 mx-auto mb-10 bg-[#E7F6F9] p-4&quot;]/div[@class=&quot;grid lg:grid-cols-6 mb-5&quot;]/button[@class=&quot;border border-[#D6EFF4] bg-[#FFF] p-4 flex flex-col justify-center hover:scale-[.97] transition-all&quot;]</value>
+      <webElementGuid>991a84f0-a8fb-4207-8b0c-28bf84157eba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div[5]/div[2]/button[3]</value>
+      <webElementGuid>5d8f5ae1-c373-4e9f-b273-7a6d11135523</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Penyulang'])[1]/following::button[1]</value>
+      <webElementGuid>8ca68afd-d9f7-4c44-adf0-2ad43995efbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gardu'])[1]/following::button[2]</value>
+      <webElementGuid>48297fb0-2dc2-4438-8ea5-91a12dc480a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lainnya'])[1]/preceding::button[1]</value>
+      <webElementGuid>8849df6f-ec4c-4679-a368-7cac52b396c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button[3]</value>
+      <webElementGuid>83de6121-e92a-48c8-bfd9-81d9a20db123</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Trafo542' or . = 'Trafo542')]</value>
+      <webElementGuid>b0fe0d68-8eec-4ce8-806a-a53272ec0198</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Angka Sedang Ditindak Lanjuti</name>
+   <tag></tag>
+   <elementGuidId>6195c99d-7359-4050-9197-8ca0d9404915</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div[4]/div/div[2]/div/div/div[2]/div[2]/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>596a61b2-ddc6-4809-bbb8-7387b1508523</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bg-[#139912] text-[14px] text-[#FFF] px-[8px] py-[4px] rounded-[50px]</value>
+      <webElementGuid>b8f58287-7689-4b4e-911d-6b56207e120d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>WO Sedang Ditindaklanjuti</value>
+      <webElementGuid>785c9467-2849-4895-91fe-82c2fbd9d756</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>8</value>
+      <webElementGuid>b1e89e20-3593-45a6-95e5-6f67661d930a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;px-[64px] py-8 mx-auto mt-28 mb-28 max-w-screen-2xl relative&quot;]/div[@class=&quot;w-full lg:w-9/12 mx-auto&quot;]/div[@class=&quot;mb-20&quot;]/div[@class=&quot;grid grid-cols-2 lg:grid-cols-5 gap-4&quot;]/div[@class=&quot;grid items-center col-span-2 md:col-span-3 bg-[#E7F6F9] rounded p-[8px]&quot;]/div[@class=&quot;grid lg:grid-cols-4 p-[2px] gap-y-1 gap-x-[2px] bg-[#D6EFF4] rounded&quot;]/div[@class=&quot;grid grid-cols-1 gap-y-[2px] lg:col-span-3&quot;]/div[@class=&quot;flex items-center justify-between gap-x-[10px] bg-[#FFF] p-[16px] rounded-br&quot;]/div[@class=&quot;flex items-center gap-x-[8px]&quot;]/button[@class=&quot;bg-[#139912] text-[14px] text-[#FFF] px-[8px] py-[4px] rounded-[50px]&quot;]</value>
+      <webElementGuid>4d908e58-3e04-427e-8fbb-c1e68b4c1a3d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div[4]/div/div[2]/div/div/div[2]/div[2]/div/button</value>
+      <webElementGuid>9228131b-a0ed-4667-8e38-18ad421ba388</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sedang Tindak Lanjut'])[1]/following::button[1]</value>
+      <webElementGuid>3a1b48ad-151d-4ad2-a0f0-b86e4ed364c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Belum Tindak Lanjut'])[1]/following::button[3]</value>
+      <webElementGuid>ec7b3813-95ee-4bd4-9218-53e59fbc41f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Close'])[1]/preceding::button[2]</value>
+      <webElementGuid>2edd068e-ce7c-4e34-8035-6933b8cdbfcc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Feedback Pelanggan'])[1]/preceding::button[2]</value>
+      <webElementGuid>7fd4242e-e001-4e95-b160-9014964651ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div[2]/div/div/div[2]/div[2]/div/button</value>
+      <webElementGuid>9411182e-9738-4441-a4af-89c320281cdb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = '8' or . = '8')]</value>
+      <webElementGuid>648b97ee-705f-4274-b878-e9dccc7f57d7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

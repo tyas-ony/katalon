@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_EXPORT</name>
+   <tag></tag>
+   <elementGuidId>7ee8b0fa-d313-4552-89ee-7ab98350ab92</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b36c8961-976c-4502-9118-a6c6aa81a31d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vcc-btn  outlined-primary text-[12px] !px-[12px] !py-[9px] mr-2 !text-[#00A2B9] !border-[#82828233]</value>
+      <webElementGuid>513767ef-2ea4-4364-be08-8b3f8c470f5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>EXPORT</value>
+      <webElementGuid>580f1768-f9bc-4f35-9edb-c19c20dd9fea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;px-[64px] py-8 mx-auto mt-28 mb-28 max-w-screen-2xl relative&quot;]/div[@class=&quot;flex items-center justify-between mt-49 mb-4 MuiBox-root css-0&quot;]/div[@class=&quot;flex items-center MuiBox-root css-0&quot;]/button[@class=&quot;vcc-btn  outlined-primary text-[12px] !px-[12px] !py-[9px] mr-2 !text-[#00A2B9] !border-[#82828233]&quot;]</value>
+      <webElementGuid>5c5d7b95-89d4-4c7a-b2b4-640cc1a2a84a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div/div/button</value>
+      <webElementGuid>1af3024f-d976-4111-a5f6-cd326c39daaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Users'])[1]/following::button[1]</value>
+      <webElementGuid>f1805c30-9ede-4e08-8f52-7c304b0bb0f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='kirim'])[1]/following::button[1]</value>
+      <webElementGuid>0dc830d1-9eb2-4573-a37c-ccb1ae02d49a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TAMBAH DATA'])[1]/preceding::button[1]</value>
+      <webElementGuid>adc8a3a4-9ade-4b35-a6d8-0c3dc92ab02f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Management'])[1]/preceding::button[1]</value>
+      <webElementGuid>8cdcd592-a649-4914-a387-52b16e40458a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='EXPORT']/parent::*</value>
+      <webElementGuid>01763468-132b-45f2-a34a-e7c56650c49f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/button</value>
+      <webElementGuid>354f704f-e1f1-453d-ae59-cd29c0f2c1d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'EXPORT' or . = 'EXPORT')]</value>
+      <webElementGuid>f32d367e-3fac-4ccf-b78e-7c186b8c5abc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

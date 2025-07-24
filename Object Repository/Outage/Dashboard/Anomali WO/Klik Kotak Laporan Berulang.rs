@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Klik Kotak Laporan Berulang</name>
+   <tag></tag>
+   <elementGuidId>6ed9ef08-8702-444a-93b0-9ede981eabac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div[4]/div/div[2]/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>de99b8e0-1adc-4be9-88e7-0335aed7b3fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-left rounded bg-[#26A41C] px-[16px] py-[20px] hover:scale-[.97] transition-all</value>
+      <webElementGuid>48c35eb3-bac4-4254-ba92-42333a350d9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>0Laporan Berulang</value>
+      <webElementGuid>7abf78e5-9f5f-46c2-aad6-f19f4289ee06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;px-[64px] py-8 mx-auto mt-24 mb-28 max-w-screen-2xl relative&quot;]/div[@class=&quot;md:w-full lg:w-9/12 mx-auto&quot;]/div[@class=&quot;mb-20&quot;]/div[@class=&quot;rounded grid lg:grid-cols-6 gap-4 bg-[#E7F6F9] p-[8px]&quot;]/div[@class=&quot;grid md:grid-cols-3 lg:col-span-5 gap-2 false&quot;]/button[@class=&quot;text-left rounded bg-[#26A41C] px-[16px] py-[20px] hover:scale-[.97] transition-all&quot;]</value>
+      <webElementGuid>bf7cb094-4e9b-4214-8428-558a073b1616</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div[4]/div/div[2]/div/button</value>
+      <webElementGuid>efb1b4cd-ea45-46f2-b806-ae3f5dee4bb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MANAGER'])[1]/following::button[1]</value>
+      <webElementGuid>5f1242d4-16d4-46aa-a292-15fd57d955fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BALI'])[1]/following::button[2]</value>
+      <webElementGuid>8fd572ef-03c8-49cf-a72b-7fcfc00eaaea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skip Step'])[1]/preceding::button[1]</value>
+      <webElementGuid>56d68e85-6ac9-4cb1-9952-94d67bb3fecf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div[2]/div/button</value>
+      <webElementGuid>a6ff0ce3-0660-44a3-a8b9-45ab44f9ff5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = '0Laporan Berulang' or . = '0Laporan Berulang')]</value>
+      <webElementGuid>89d4e96e-33d5-4b6d-a2a3-a32a1d236fa6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

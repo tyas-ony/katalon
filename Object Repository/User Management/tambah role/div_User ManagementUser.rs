@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_User ManagementUser</name>
+   <tag></tag>
+   <elementGuidId>f8efe026-31de-4c64-9703-468d1673833f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/form/div[5]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>00eb9ceb-4eeb-46d0-aa3d-ba3204da7a3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>py-1 px-3 border border-x border-[#E0E0E0] bg-[#FAFAFA] MuiBox-root css-0</value>
+      <webElementGuid>ee418f31-caf6-4d40-9e01-75a3a771f2b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>User ManagementUser</value>
+      <webElementGuid>9defd984-8b53-4432-bf91-88df961b80ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;px-[64px] py-8 mx-auto mt-28 mb-28 max-w-screen-2xl relative&quot;]/form[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiFormControl-root MuiFormControl-fullWidth mb-8 css-tzsjye&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;py-1 px-3 border border-x border-[#E0E0E0] bg-[#FAFAFA] MuiBox-root css-0&quot;]</value>
+      <webElementGuid>30fafe25-f95d-4d90-9e56-176e88197a59</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/form/div[5]/div/div</value>
+      <webElementGuid>ef289e99-cbe7-4757-87f1-9857751db84f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ATUR PERMISSION'])[1]/following::div[1]</value>
+      <webElementGuid>f733b318-b840-4ba6-bc69-22d283011106</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Centang (√) apabila user ini merupakan user Command Center'])[1]/following::div[3]</value>
+      <webElementGuid>f4f06d67-3b16-4828-a2e6-2bdb52384b85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[5]/div/div</value>
+      <webElementGuid>7af4a326-d525-4e48-a294-65880b08d23d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'User ManagementUser' or . = 'User ManagementUser')]</value>
+      <webElementGuid>295fa082-f046-4887-8ddb-59a4645e8528</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Skip Step</name>
+   <tag></tag>
+   <elementGuidId>c91062e8-70ef-4d5b-bb5e-710893b3de47</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div[5]/div/div[2]/button[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5a2b774d-ae25-4f68-8332-555693fde8f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-left rounded bg-[#FF0000] px-[16px] py-[20px] hover:scale-[.97] transition-all</value>
+      <webElementGuid>ed65fbc6-7a32-4e1b-9780-387019bf3977</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>6Skip Step</value>
+      <webElementGuid>f7ca0924-0831-4b1f-a066-c109309e6f71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;px-[64px] py-8 mx-auto mt-24 mb-28 max-w-screen-2xl relative&quot;]/div[@class=&quot;md:w-full lg:w-9/12 mx-auto&quot;]/div[@class=&quot;mb-20&quot;]/div[@class=&quot;rounded grid md:grid-cols-2 lg:grid-cols-4 gap-4 bg-[#E7F6F9] p-[8px]&quot;]/button[@class=&quot;text-left rounded bg-[#FF0000] px-[16px] py-[20px] hover:scale-[.97] transition-all&quot;]</value>
+      <webElementGuid>44580dc8-086a-48ad-93dc-6a43f26f9ae9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div[5]/div/div[2]/button[3]</value>
+      <webElementGuid>cecae605-6c73-4f45-9a17-3ff279b3ad1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Laporan Berulang'])[1]/following::button[1]</value>
+      <webElementGuid>2b4ecb9a-79fc-40a0-b015-cfb310840c06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WO Over SLA'])[1]/following::button[2]</value>
+      <webElementGuid>00caedbc-a09f-493e-b96a-dad5bcb4438f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rating Negatif'])[1]/preceding::button[1]</value>
+      <webElementGuid>9b6c94ec-c5c9-4de8-acd6-980b64878dae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[3]</value>
+      <webElementGuid>da3eb4a4-0869-48d8-b4cc-f26794cae755</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = '6Skip Step' or . = '6Skip Step')]</value>
+      <webElementGuid>a8325b99-9894-4096-bf42-e2d1eb0b4c94</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

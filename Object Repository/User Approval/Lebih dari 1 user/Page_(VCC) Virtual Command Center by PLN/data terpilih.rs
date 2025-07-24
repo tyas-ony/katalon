@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>data terpilih</name>
+   <tag></tag>
+   <elementGuidId>67d21db1-dfb7-4662-ad1b-8df54c4bf557</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div[9]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e3aa2f1e-f614-4897-8607-bdf47854f1b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>floating-action open fixed bottom-6 p-6 bg-[#eff2f9] left-0 right-0 max-w-screen-2xl m-auto rounded-md z-[99]</value>
+      <webElementGuid>794e5a8a-e47f-4ea6-8d69-3d81d5fc349a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>2 data terpilihTERIMATOLAK</value>
+      <webElementGuid>dea2dc2f-a22e-4bc9-a865-af5283732ab5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;px-[64px] py-8 mx-auto mt-28 mb-28 max-w-screen-2xl relative&quot;]/div[@class=&quot;floating-action open fixed bottom-6 p-6 bg-[#eff2f9] left-0 right-0 max-w-screen-2xl m-auto rounded-md z-[99]&quot;]</value>
+      <webElementGuid>5e38cc4c-bcaf-495e-82e5-9772b7af84ff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div[9]</value>
+      <webElementGuid>88535da0-6ce5-4f79-8c9b-6b2828fb048a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ya, Lanjutkan'])[1]/following::div[1]</value>
+      <webElementGuid>cfbd0744-960c-40ed-b652-3bb114477aad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Batal'])[1]/following::div[1]</value>
+      <webElementGuid>d818bdb7-00a2-4a18-8906-460294449a0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[9]</value>
+      <webElementGuid>3defb509-7cad-49ec-b86c-ca09ef1a7f4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '2 data terpilihTERIMATOLAK' or . = '2 data terpilihTERIMATOLAK')]</value>
+      <webElementGuid>3152a527-b8d0-431c-a965-866d02947f12</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Klik High Perform</name>
+   <tag></tag>
+   <elementGuidId>56aa37f8-385b-4a6c-8a97-a3ea68a2ac8b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div[4]/div[4]/div[2]/div[2]/button[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>83ff9787-ebad-415f-88e1-f48b0328cf43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-left rounded bg-[#26A41C] px-[16px] py-[20px] hover:scale-[.97] transition-all</value>
+      <webElementGuid>879f2ae6-b37b-4eaf-9b40-2d8fbf246950</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>22095.65%High Perform</value>
+      <webElementGuid>bfd9bce0-16e9-45e9-969d-6572ea997f6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;px-[64px] py-8 mx-auto mt-24 mb-28 max-w-screen-2xl relative&quot;]/div[@class=&quot;md:w-full lg:w-9/12 mx-auto mb-10&quot;]/div[@class=&quot;mb-20&quot;]/div[@class=&quot;rounded grid lg:grid-cols-6 gap-4 bg-[#E7F6F9] p-[8px]&quot;]/div[@class=&quot;grid md:grid-cols-3 lg:col-span-5 gap-2&quot;]/button[@class=&quot;text-left rounded bg-[#26A41C] px-[16px] py-[20px] hover:scale-[.97] transition-all&quot;]</value>
+      <webElementGuid>cf2e1cef-d0f8-43a8-b86a-6fc082ada6f4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div[4]/div[4]/div[2]/div[2]/button[3]</value>
+      <webElementGuid>568feac9-24e9-4f41-b81e-2be7396f7b0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mid Perform'])[4]/following::button[1]</value>
+      <webElementGuid>96419d8f-455b-47f7-942e-9ec35102104d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Under Perform'])[4]/following::button[2]</value>
+      <webElementGuid>d5e1c5bb-ba09-4396-998a-9a92d5c6a85f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='UP3 KEDIRI'])[1]/preceding::button[1]</value>
+      <webElementGuid>8a6d09c4-4068-41b4-ad11-697936875b78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div[2]/button[3]</value>
+      <webElementGuid>d0757a3c-d96b-4905-8a25-00dcf50077e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = '22095.65%High Perform' or . = '22095.65%High Perform')]</value>
+      <webElementGuid>1e2a69e9-8769-48fe-b816-07cf82ba2b03</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

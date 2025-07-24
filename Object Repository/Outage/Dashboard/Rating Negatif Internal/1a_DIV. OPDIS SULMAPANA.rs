@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>1a_DIV. OPDIS SULMAPANA</name>
+   <tag></tag>
+   <elementGuidId>25581f07-a2ee-416f-b5b7-5886bf1d936b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div[4]/div[3]/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>7eeecd42-9918-4f42-9cbc-7c7e57a7be63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-[#2F80ED] text-[16px] font-bold sf-pro-text-md p-0 flex items-center gap-x-2</value>
+      <webElementGuid>9c2fb475-a10a-413a-aecf-84cad9eb9764</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/outage/dashboard/rating-negatif?level=reg&amp;unit=DIVSULMAPANA&amp;start_date=2021-06-05&amp;end_date=2024-06-05</value>
+      <webElementGuid>97ba430e-5223-4ecf-b6c7-8a386e559ecf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>DIV. OPDIS SULMAPANA</value>
+      <webElementGuid>627dcb22-2775-482e-81a2-4bf7dcc50761</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;px-[64px] py-8 mx-auto mt-28 mb-28 max-w-screen-2xl relative&quot;]/div[@class=&quot;md:w-full lg:w-9/12 mx-auto&quot;]/div[@class=&quot;mb-20&quot;]/div[@class=&quot;flex items-center justify-between mb-4&quot;]/a[@class=&quot;text-[#2F80ED] text-[16px] font-bold sf-pro-text-md p-0 flex items-center gap-x-2&quot;]</value>
+      <webElementGuid>6b2ea16f-a0d3-4e06-976e-e07c1eb90178</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div[4]/div[3]/div/a</value>
+      <webElementGuid>f5d5e6a3-d4b2-457c-aae6-281b43ffbe68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'DIV. OPDIS SULMAPANA')]</value>
+      <webElementGuid>e44ce4c8-6dac-4ace-86b2-d3a14b13e211</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sedang Tindak Lanjut'])[2]/following::a[1]</value>
+      <webElementGuid>7afb9230-bc0c-4ff4-811e-eb1fa26adf57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Belum Tindak Lanjut'])[2]/following::a[1]</value>
+      <webElementGuid>841f8c23-0242-4708-974c-38b049911238</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Open'])[3]/preceding::a[1]</value>
+      <webElementGuid>a41d6ad3-0db6-4e4a-8606-1c9afbe9193f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Belum Tindak Lanjut'])[3]/preceding::a[1]</value>
+      <webElementGuid>7fe5bf06-888d-4806-b283-ee581d3a6090</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='DIV. OPDIS SULMAPANA']/parent::*</value>
+      <webElementGuid>f9292a58-d842-43f0-b210-acd038b0d51a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/outage/dashboard/rating-negatif?level=reg&amp;unit=DIVSULMAPANA&amp;start_date=2021-06-05&amp;end_date=2024-06-05')]</value>
+      <webElementGuid>8f70f8db-cd4a-4e89-ad4e-6523c27d4989</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[3]/div/a</value>
+      <webElementGuid>8bf46c6f-4424-4b6b-874b-f428da7e141e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/outage/dashboard/rating-negatif?level=reg&amp;unit=DIVSULMAPANA&amp;start_date=2021-06-05&amp;end_date=2024-06-05' and (text() = 'DIV. OPDIS SULMAPANA' or . = 'DIV. OPDIS SULMAPANA')]</value>
+      <webElementGuid>15b75f19-fdd9-46fd-b8a7-01932d4f5abf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

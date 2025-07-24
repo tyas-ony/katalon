@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>UploadFile</name>
+   <tag></tag>
+   <elementGuidId>6d12257a-d0f8-450f-96b0-55973ef8ca8d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//body/div[@id='__next']/div[1]/nav[1]/div[3]/div[2]/div[1]/div[2]/div[4]/div[1]/input[1]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//body/div[@id='__next']/div[1]/nav[1]/div[3]/div[2]/div[1]/div[2]/div[4]/div[1]/input[1]</value>
+      <webElementGuid>0997416f-738f-4350-822a-58d1cdbf41e5</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

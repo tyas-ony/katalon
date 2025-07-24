@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Mohon tunggu, sedang memuat data</name>
+   <tag></tag>
+   <elementGuidId>b93fe3a3-8535-4fe6-9334-0cc727d2ed16</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.flex.items-center.justify-center.flex-col.w-fit.MuiBox-root.css-0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[3]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7bd3b806-5147-4faf-a307-4eb915ea8703</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex items-center justify-center flex-col w-fit MuiBox-root css-0</value>
+      <webElementGuid>a0c98d37-4f01-452b-b73c-b3167f7d9fae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mohon tunggu, sedang memuat data...</value>
+      <webElementGuid>638a715b-9810-4ae7-8974-109f2cb60486</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;false modal-loading fixed top-0 left-0 right-0 bottom-0 bg-[#ffffff1a] filter backdrop-blur-3xl z-[103] flex items-center justify-center flex-col MuiBox-root css-0&quot;]/div[@class=&quot;flex items-center justify-center flex-col w-fit MuiBox-root css-0&quot;]</value>
+      <webElementGuid>3428428c-1644-4363-8539-c5a4e0766135</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[3]/div</value>
+      <webElementGuid>b2640d56-2508-4009-9018-43933ad5de4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ok'])[1]/following::div[2]</value>
+      <webElementGuid>8e89c78b-2e2d-437a-944f-9d7c6e64d43d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mohon periksa kembali username &amp; password anda.'])[1]/following::div[2]</value>
+      <webElementGuid>c39d931c-3e2a-4f2e-b502-7feff84a65de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Error!'])[2]/preceding::div[5]</value>
+      <webElementGuid>e697f7f0-493c-44c3-9245-b39a9d6c6931</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div</value>
+      <webElementGuid>1d95b3aa-4370-47c7-b3f3-ea7d62bfe66d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Mohon tunggu, sedang memuat data...' or . = 'Mohon tunggu, sedang memuat data...')]</value>
+      <webElementGuid>e48569a8-6686-46d0-a096-19334339b4d5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

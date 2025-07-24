@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_batal</name>
+   <tag></tag>
+   <elementGuidId>a353375b-825f-47c7-96e5-e651621b4c6d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.vcc-btn.vcc-btn-md.outlined-danger.undefined</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div/nav/div[3]/div[2]/div/div[2]/div[5]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>561cf3c5-e625-499e-bb3c-94cceda5fbe7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vcc-btn vcc-btn-md outlined-danger undefined</value>
+      <webElementGuid>96b6680e-7b3e-4c49-972c-22babf643019</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>batal</value>
+      <webElementGuid>bcbdc467-7df0-49a6-b495-35ace0fb904c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[1]/div[1]/div[1]/nav[@class=&quot;main-navbar fixed top-0 left-0 right-0 shadow-md&quot;]/div[@class=&quot;--right flex gap-4 absolute top-0 bottom-0 right-10 h-fit m-auto&quot;]/div[@class=&quot;vcc-modal  fixed top-0 left-0 right-0 bottom-0 z-[100] bg-[#081e3d3a] backdrop-blur-sm MuiBox-root css-0&quot;]/div[@class=&quot;vcc-modal-card animate__animated animate__fadeIn w-[386px] bg-white rounded p-8 pt-0 absolute top-[10%] left-0 right-0 m-auto&quot;]/div[@class=&quot;vcc-modal-body border-t pt-5&quot;]/div[@class=&quot;flex items-center&quot;]/button[@class=&quot;vcc-btn vcc-btn-md outlined-danger undefined&quot;]</value>
+      <webElementGuid>159de8f4-ad50-49ad-9581-4e4fd4a4bf8b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/nav/div[3]/div[2]/div/div[2]/div[5]/button</value>
+      <webElementGuid>da6332a9-1a32-4109-b764-b33c3593f02b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dummy.pdf'])[1]/following::button[1]</value>
+      <webElementGuid>e4e9b3d6-4f27-4b0c-8224-fbab65fa6eaf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PILIH FILE'])[1]/following::button[1]</value>
+      <webElementGuid>701d132d-cf04-4076-b306-de9113e3e6f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='kirim'])[1]/preceding::button[1]</value>
+      <webElementGuid>232972a5-1f9f-4535-bd14-f8d701faaf2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Detail'])[1]/preceding::button[2]</value>
+      <webElementGuid>d08b5e89-b5d0-4b23-84f7-4f56437f0502</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='batal']/parent::*</value>
+      <webElementGuid>00772a7a-e2db-49fe-b7e6-77dabbfdd11d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/button</value>
+      <webElementGuid>a8023bd5-e5b6-4250-be3a-0ce65b86a2a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'batal' or . = 'batal')]</value>
+      <webElementGuid>1bf291eb-b57f-4513-9eb2-12fb04eb3506</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tidak ada file yang dipilih'])[1]/following::button[1]</value>
+      <webElementGuid>a36a0860-4dff-4281-8340-607b0858d491</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

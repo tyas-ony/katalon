@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_DIV. OPDIS JAMALI</name>
+   <tag></tag>
+   <elementGuidId>e80f6806-8cdf-4809-8919-5269b06406ff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div[4]/div[2]/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>67f65248-3bdc-48a3-950f-4bf5ee1c76ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-[#035B71] text-[16px] font-bold sf-pro-text-md text-[#2F80ED] flex items-center gap-2</value>
+      <webElementGuid>c995af50-bab0-4f59-bc16-8dcb02fffbb3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/outage/dashboard/anomali-wo?level=reg&amp;unit_id=DIVJMB</value>
+      <webElementGuid>69be1c6c-5c7f-4426-a7fc-895dd7b29afc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>DIV. OPDIS JAMALI</value>
+      <webElementGuid>aa782fe3-dd7f-4de4-b032-1ca8ca31adc6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;px-[64px] py-8 mx-auto mt-24 mb-28 max-w-screen-2xl relative&quot;]/div[@class=&quot;md:w-full lg:w-9/12 mx-auto&quot;]/div[@class=&quot;mb-20&quot;]/div[@class=&quot;flex items-center justify-between mb-4&quot;]/a[@class=&quot;text-[#035B71] text-[16px] font-bold sf-pro-text-md text-[#2F80ED] flex items-center gap-2&quot;]</value>
+      <webElementGuid>630ad165-ce93-4c7d-ba50-04703ac8a6a5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div[4]/div[2]/div/a</value>
+      <webElementGuid>476bfeea-7ee3-4923-9feb-abea8d757859</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'DIV. OPDIS JAMALI')]</value>
+      <webElementGuid>73b90b66-2ff4-4294-a93a-4f6113d93219</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Anomali'])[1]/following::a[1]</value>
+      <webElementGuid>f77fd2b4-e91e-4914-a1f5-8736ada35ac9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rating Negatif'])[1]/following::a[1]</value>
+      <webElementGuid>75549c08-c9d3-418a-b888-9e25171a5b91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Laporan Berulang'])[2]/preceding::a[1]</value>
+      <webElementGuid>2dcaeb92-357a-4738-8579-bb896985c301</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skip Step'])[2]/preceding::a[1]</value>
+      <webElementGuid>62bc2e40-5fc6-4f93-bdf0-4d51f47a2d84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='DIV. OPDIS JAMALI']/parent::*</value>
+      <webElementGuid>b2bac9ef-dd86-4cd6-9f61-83c59d3e70fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/outage/dashboard/anomali-wo?level=reg&amp;unit_id=DIVJMB')]</value>
+      <webElementGuid>3f79f62a-709e-41a7-833e-7983c1923f68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div/a</value>
+      <webElementGuid>861915c9-ce4f-4b9b-84dd-083ecbd2b245</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/outage/dashboard/anomali-wo?level=reg&amp;unit_id=DIVJMB' and (text() = 'DIV. OPDIS JAMALI' or . = 'DIV. OPDIS JAMALI')]</value>
+      <webElementGuid>44deb619-0878-4f2f-abca-bcd2d75fd88c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_kirim</name>
+   <tag></tag>
+   <elementGuidId>8e1fb011-1aa1-4a8c-9f8e-134f5154a784</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.vcc-btn.vcc-btn-md.contained-primary.ml-3</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div/nav/div[3]/div[2]/div/div[2]/div[5]/button[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>98506198-04ec-4ea2-9464-3402259e9203</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vcc-btn vcc-btn-md contained-primary ml-3</value>
+      <webElementGuid>d77eb7fd-88be-4133-ad3b-497a76f7a2ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>kirim</value>
+      <webElementGuid>f11ac8f1-ee75-4622-a735-048546d802c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[1]/div[1]/div[1]/nav[@class=&quot;main-navbar fixed top-0 left-0 right-0 shadow-md&quot;]/div[@class=&quot;--right flex gap-4 absolute top-0 bottom-0 right-10 h-fit m-auto&quot;]/div[@class=&quot;vcc-modal  fixed top-0 left-0 right-0 bottom-0 z-[100] bg-[#081e3d3a] backdrop-blur-sm MuiBox-root css-0&quot;]/div[@class=&quot;vcc-modal-card animate__animated animate__fadeIn w-[386px] bg-white rounded p-8 pt-0 absolute top-[10%] left-0 right-0 m-auto&quot;]/div[@class=&quot;vcc-modal-body border-t pt-5&quot;]/div[@class=&quot;flex items-center&quot;]/button[@class=&quot;vcc-btn vcc-btn-md contained-primary ml-3&quot;]</value>
+      <webElementGuid>ccd5de85-acfe-4698-97de-cabf8f10cb7f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/nav/div[3]/div[2]/div/div[2]/div[5]/button[2]</value>
+      <webElementGuid>b53deb41-c8a2-4a86-bd74-af7c4bc91714</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='batal'])[1]/following::button[1]</value>
+      <webElementGuid>8e1c97ff-8c62-4fcc-9c44-9cf74a8139a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tidak ada file yang dipilih'])[1]/following::button[2]</value>
+      <webElementGuid>9a6ff44b-f387-4c09-b151-5eaab5c1e4bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Detail'])[1]/preceding::button[1]</value>
+      <webElementGuid>21ca27d9-9dc6-416b-a4a1-d8cdbf157d11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Username'])[1]/preceding::button[1]</value>
+      <webElementGuid>df991103-46be-4c4e-a3bd-469134105cec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='kirim']/parent::*</value>
+      <webElementGuid>9ef279ce-1846-4a9b-b671-c57e7e748d1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/button[2]</value>
+      <webElementGuid>81442e27-5ca1-432d-bb71-ba94fc97903b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'kirim' or . = 'kirim')]</value>
+      <webElementGuid>f7dc1f43-d7d7-42bd-811c-592af6540720</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

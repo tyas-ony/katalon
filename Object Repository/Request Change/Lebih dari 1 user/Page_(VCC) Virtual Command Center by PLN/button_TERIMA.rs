@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_TERIMA</name>
+   <tag></tag>
+   <elementGuidId>2872802b-f3a0-444d-a396-de69ee8e928f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.vcc-btn.vcc-btn-md.contained-success.undefined</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div[8]/div/button[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>fe802d05-ea78-424a-b0a5-00103e17765d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vcc-btn vcc-btn-md contained-success undefined</value>
+      <webElementGuid>07000fb3-8627-4de0-8a5b-75d54a6d3d2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>TERIMA</value>
+      <webElementGuid>7b059891-bc9b-4cb5-a7bc-292beb3b7ba2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;px-[64px] py-8 mx-auto mt-28 mb-28 max-w-screen-2xl relative&quot;]/div[@class=&quot;floating-action open fixed bottom-6 p-6 bg-[#eff2f9] left-0 right-0 max-w-screen-2xl m-auto rounded-md z-[99]&quot;]/div[@class=&quot;flex justify-end items-center gap-4 m-auto&quot;]/button[@class=&quot;vcc-btn vcc-btn-md contained-success undefined&quot;]</value>
+      <webElementGuid>1efad756-d5e4-44ff-bba6-5452749a93b9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div[8]/div/button[2]</value>
+      <webElementGuid>cde9871f-39b5-4dd2-8fad-017cdf126fc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ya, Lanjutkan'])[1]/following::button[2]</value>
+      <webElementGuid>02a488d2-2fba-4be1-b206-bb7f6d563f94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Batal'])[1]/following::button[3]</value>
+      <webElementGuid>0b1d730c-5a68-4217-a743-4b5311e06ffa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TOLAK'])[1]/preceding::button[1]</value>
+      <webElementGuid>599004aa-09df-4ec8-bb3e-6f17c8eb7d69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terima Request Pindah Unit'])[1]/preceding::button[2]</value>
+      <webElementGuid>f237720e-411b-4eb1-8c1e-646afe10dbbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='TERIMA']/parent::*</value>
+      <webElementGuid>b253b147-b241-48af-8a0b-7ef6d12fb774</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/button[2]</value>
+      <webElementGuid>7d26dfda-cd4d-43b5-84cc-b68f1dc3c787</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'TERIMA' or . = 'TERIMA')]</value>
+      <webElementGuid>d8fa13a4-0984-45d9-91cf-46fa4f77444e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

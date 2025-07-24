@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>4a_ULP MANADO SELATAN</name>
+   <tag></tag>
+   <elementGuidId>993abd39-dcae-4f1e-a8e1-e36dceb0b7cc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div[4]/div[10]/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f84faf6f-ce49-4cac-947f-2cd6f34520b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-[#2F80ED] text-[16px] font-bold sf-pro-text-md p-0 flex items-center gap-x-2</value>
+      <webElementGuid>82c54210-964c-465b-acef-23d29a3e42cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/outage/dashboard/rating-negatif?level=ulp&amp;unit=31102&amp;start_date=2021-06-05&amp;end_date=2024-06-05</value>
+      <webElementGuid>8e91a20c-e520-4f4d-b1ef-e0e60c23e119</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ULP MANADO SELATAN</value>
+      <webElementGuid>f7c8bc62-e1c1-4ee9-9ec3-6e7949fa70e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;px-[64px] py-8 mx-auto mt-28 mb-28 max-w-screen-2xl relative&quot;]/div[@class=&quot;md:w-full lg:w-9/12 mx-auto&quot;]/div[@class=&quot;mb-20&quot;]/div[@class=&quot;flex items-center justify-between mb-4&quot;]/a[@class=&quot;text-[#2F80ED] text-[16px] font-bold sf-pro-text-md p-0 flex items-center gap-x-2&quot;]</value>
+      <webElementGuid>73c52b6f-207e-424e-b507-450d05e625cf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div[4]/div[10]/div/a</value>
+      <webElementGuid>66e2d8d5-567c-4122-a56a-2d5c728edc03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'ULP MANADO SELATAN')]</value>
+      <webElementGuid>ed7a2fd5-102a-4b4b-a6df-385734ffe494</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sedang Tindak Lanjut'])[9]/following::a[1]</value>
+      <webElementGuid>8c7a997d-6f5c-46ff-87fb-f09294507873</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Belum Tindak Lanjut'])[9]/following::a[1]</value>
+      <webElementGuid>68f89c9f-06d0-44de-9858-2652e905f0ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Open'])[10]/preceding::a[1]</value>
+      <webElementGuid>d623bba4-01a4-40a5-a161-64a2ac5f05c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Belum Tindak Lanjut'])[10]/preceding::a[1]</value>
+      <webElementGuid>3ad7771c-ca36-4041-a50c-37fa5729b4e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ULP MANADO SELATAN']/parent::*</value>
+      <webElementGuid>08acf56e-529e-40fc-b86b-9130250bcc3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/outage/dashboard/rating-negatif?level=ulp&amp;unit=31102&amp;start_date=2021-06-05&amp;end_date=2024-06-05')]</value>
+      <webElementGuid>b0096b07-e066-44db-9fb6-4def0c8137ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/div/a</value>
+      <webElementGuid>6cfce3af-145b-455d-b602-1726f850f4fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/outage/dashboard/rating-negatif?level=ulp&amp;unit=31102&amp;start_date=2021-06-05&amp;end_date=2024-06-05' and (text() = 'ULP MANADO SELATAN' or . = 'ULP MANADO SELATAN')]</value>
+      <webElementGuid>bd0cbaae-0950-466f-ba47-31c54ec02eb1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Rekap Perubahan Daya - Berdasarkan User Login</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e7d85258-ac42-45f8-b0c9-209c7d58a572</testCaseGuid>
+</TestCaseEntity>

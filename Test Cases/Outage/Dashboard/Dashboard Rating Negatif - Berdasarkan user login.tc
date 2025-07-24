@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Dashboard Rating Negatif - Berdasarkan user login</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7b228169-a4d6-4d5a-b583-50584b37852e</testCaseGuid>
+</TestCaseEntity>

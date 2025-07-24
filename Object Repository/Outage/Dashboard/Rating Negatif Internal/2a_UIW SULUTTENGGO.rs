@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>2a_UIW SULUTTENGGO</name>
+   <tag></tag>
+   <elementGuidId>a5c9ca04-1cfe-4348-8d91-2776ba05cbad</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div[4]/div[6]/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>00fda7a1-619e-4288-9e8e-a69b5d7666bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-[#2F80ED] text-[16px] font-bold sf-pro-text-md p-0 flex items-center gap-x-2</value>
+      <webElementGuid>32a856d2-0908-4a2b-9f6a-e94207de8d10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/outage/dashboard/rating-negatif?level=uid&amp;unit=31&amp;start_date=2021-06-05&amp;end_date=2024-06-05</value>
+      <webElementGuid>dbbb12bf-e0dc-4c3b-8bba-10d506df1ce9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>UIW SULUTTENGGO</value>
+      <webElementGuid>a3110f32-f4cd-4e41-b128-c5c3af2084ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;px-[64px] py-8 mx-auto mt-28 mb-28 max-w-screen-2xl relative&quot;]/div[@class=&quot;md:w-full lg:w-9/12 mx-auto&quot;]/div[@class=&quot;mb-20&quot;]/div[@class=&quot;flex items-center justify-between mb-4&quot;]/a[@class=&quot;text-[#2F80ED] text-[16px] font-bold sf-pro-text-md p-0 flex items-center gap-x-2&quot;]</value>
+      <webElementGuid>53235caf-4f88-496b-86c2-9ae9d0964413</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div[4]/div[6]/div/a</value>
+      <webElementGuid>b2c06774-b7ce-4d96-b239-4f7d83fad6ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'UIW SULUTTENGGO')]</value>
+      <webElementGuid>63240219-2faa-4e53-ad63-15239d04ec9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sedang Tindak Lanjut'])[5]/following::a[1]</value>
+      <webElementGuid>d75d495a-77e1-487f-afa3-6da533fd6332</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Belum Tindak Lanjut'])[5]/following::a[1]</value>
+      <webElementGuid>667cc5a3-504d-4e81-93ff-90abe859521b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GM'])[6]/preceding::a[1]</value>
+      <webElementGuid>ca476dcb-ca01-43f4-9ee3-6b576f186e49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Open'])[6]/preceding::a[1]</value>
+      <webElementGuid>72736a35-8bc9-4426-977e-df4763afef74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='UIW SULUTTENGGO']/parent::*</value>
+      <webElementGuid>0299c7d1-96e4-4849-aa04-1c3340270881</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/outage/dashboard/rating-negatif?level=uid&amp;unit=31&amp;start_date=2021-06-05&amp;end_date=2024-06-05')]</value>
+      <webElementGuid>852a9bc0-43d4-466e-9a67-8dbccbb1373f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/a</value>
+      <webElementGuid>c2228da7-f10b-4aeb-88ce-a3d130d58a9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/outage/dashboard/rating-negatif?level=uid&amp;unit=31&amp;start_date=2021-06-05&amp;end_date=2024-06-05' and (text() = 'UIW SULUTTENGGO' or . = 'UIW SULUTTENGGO')]</value>
+      <webElementGuid>081a98d3-6328-4edc-b7c7-3e4ecfc93283</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User Approval lebih dari 1 user</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e015ad6b-ab43-46d7-a19a-a31fdec487e1</testCaseGuid>
+</TestCaseEntity>

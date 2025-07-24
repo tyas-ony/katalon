@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Detail WO</name>
+   <tag></tag>
+   <elementGuidId>3f5d9da8-3ddc-4c0c-b1dc-91c4cdcbed07</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>354c3543-037f-4337-b57a-151acdf13584</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>px-[64px] py-8 mx-auto mt-28 mb-28 max-w-screen-2xl relative</value>
+      <webElementGuid>3a2f3a8f-0da3-46f3-997e-8b1f54cdcbc1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Detail WOShow10Entries​NoReporter NameDetail PengaduanCustomer NumberNama UnitReport NumberLast StatusCreate DatePetugasCreate ByJenisReporter AddressReporter PhoneAksiData tidak ditemukanShow 0 to 0 of 0 Entries</value>
+      <webElementGuid>575d022e-13ae-4539-a692-1048c4377224</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;px-[64px] py-8 mx-auto mt-28 mb-28 max-w-screen-2xl relative&quot;]</value>
+      <webElementGuid>aaf4c03b-a46d-44b6-acda-feabf58ba624</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]</value>
+      <webElementGuid>b8bd61a5-82a9-4799-b4c3-7c3578758d66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ok'])[1]/following::div[3]</value>
+      <webElementGuid>9fa62b4d-fa3b-4cce-bbbf-b9e58799b3c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Success!'])[1]/following::div[4]</value>
+      <webElementGuid>31b4465a-9272-4894-bdba-9aef0997c7be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]</value>
+      <webElementGuid>ae087666-0ce3-4cc0-abc9-7d02f9007774</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Detail WOShow10Entries​NoReporter NameDetail PengaduanCustomer NumberNama UnitReport NumberLast StatusCreate DatePetugasCreate ByJenisReporter AddressReporter PhoneAksiData tidak ditemukanShow 0 to 0 of 0 Entries' or . = 'Detail WOShow10Entries​NoReporter NameDetail PengaduanCustomer NumberNama UnitReport NumberLast StatusCreate DatePetugasCreate ByJenisReporter AddressReporter PhoneAksiData tidak ditemukanShow 0 to 0 of 0 Entries')]</value>
+      <webElementGuid>25a12c51-77bb-4b71-b44c-136c330d608d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PILIH FILE</name>
+   <tag></tag>
+   <elementGuidId>972a3dea-edad-4183-92f2-e4c15beb804e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@id='btn-file'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>2978a077-6c8b-45b6-90dd-83407658de19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>btn-file</value>
+      <webElementGuid>a427e1bd-2c77-41eb-907d-4357a82edef5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>absolute right-[0] rounded text-[#333333] text-[12px] border border-[#0000003b] bg-[#FAFAFA] !px-[12px] !py-[9px] h-fit</value>
+      <webElementGuid>5e6ec32e-7fc4-4e91-8d64-f02c5eb88f50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>PILIH FILE</value>
+      <webElementGuid>b699c84b-60b4-44f4-9072-6a4e999b3750</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;px-[64px] py-8 mx-auto mt-28 mb-28 max-w-screen-2xl relative&quot;]/div[@class=&quot;mb-8 flex flex-col items-start md:items-end gap-4 md:flex-row  MuiBox-root css-0&quot;]/div[@class=&quot;flex items-end relative w-full md:w-2/6&quot;]/button[@id=&quot;btn-file&quot;]</value>
+      <webElementGuid>5f30a3f3-65de-48eb-87c9-c6d41602dd17</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@id='btn-file'])[2]</value>
+      <webElementGuid>96f92e38-ff98-4526-98d6-01fa59d0820b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div[3]/div[2]/button</value>
+      <webElementGuid>e007ec12-d78d-46ae-a6fa-a1ec740e95f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[4]/following::button[1]</value>
+      <webElementGuid>2042ec3d-09e0-487d-bff2-53a3ec3e1683</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Import ID Pel(CSV)'])[1]/following::button[1]</value>
+      <webElementGuid>e87c437d-4af0-4c1e-b12a-9e6646200a46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CARI'])[1]/preceding::button[1]</value>
+      <webElementGuid>1b073c86-8d38-43a9-8197-d5b8e581fee0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show'])[1]/preceding::button[2]</value>
+      <webElementGuid>257f1553-02d0-4007-82c8-e1783c01fa1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/button</value>
+      <webElementGuid>95ed17d2-3970-4dcc-84a2-c4be2e5696ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'btn-file' and (text() = 'PILIH FILE' or . = 'PILIH FILE')]</value>
+      <webElementGuid>919f1985-ae0d-4464-91df-48411ec68417</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

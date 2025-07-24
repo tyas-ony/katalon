@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Nomor TeleponHPmasukkan nomor telepon</name>
+   <tag></tag>
+   <elementGuidId>244e9168-1ec6-4f0a-b102-05ab49f5c8df</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/form/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>dd2cb046-12a0-4353-a660-8206ca0d637c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiFormControl-root MuiFormControl-fullWidth mb-5 css-tzsjye</value>
+      <webElementGuid>ab60e597-0115-41e2-9b78-b1f82b697fff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nomor Telepon/HP​masukkan nomor telepon</value>
+      <webElementGuid>4667963c-1c44-4d8f-a22e-5391c294792a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;px-[64px] py-8 mx-auto mt-28 mb-28 max-w-screen-2xl relative&quot;]/form[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiFormControl-root MuiFormControl-fullWidth mb-5 css-tzsjye&quot;]</value>
+      <webElementGuid>91ce91a8-ee7f-4453-a204-10318e898644</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/form/div[2]</value>
+      <webElementGuid>b4b625b9-f796-4d4c-ab6a-4939b190a6fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[3]/following::div[1]</value>
+      <webElementGuid>13092d28-bc88-4aa1-88d5-cb48ce16d4b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Unit'])[1]/following::div[3]</value>
+      <webElementGuid>195f4cf7-3c1b-407f-a1b3-9692dd7219ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[2]</value>
+      <webElementGuid>6da61e9e-1410-44b6-b2e4-2350ed9cecb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Nomor Telepon/HP​masukkan nomor telepon' or . = 'Nomor Telepon/HP​masukkan nomor telepon')]</value>
+      <webElementGuid>5d4cd9a2-5a26-4494-a339-c0b3ba3621ec</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

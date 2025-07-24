@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Rekap Transaksi - Berdasarkan User Login</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>921c11d4-3e59-491f-855a-ecba68b6a48d</testCaseGuid>
+</TestCaseEntity>

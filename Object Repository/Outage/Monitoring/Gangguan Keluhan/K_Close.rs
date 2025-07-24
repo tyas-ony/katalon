@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>K_Close</name>
+   <tag></tag>
+   <elementGuidId>77f37386-fee6-437f-a75f-a4191bf1e83b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div[6]/div[3]/div/div[3]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d1ddddff-8c35-447c-a5df-aa721b746360</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rounded flex items-center</value>
+      <webElementGuid>d9d10ba6-1d6c-487b-b845-e912bd827ad9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/</value>
+      <webElementGuid>290bb7c5-282d-42e2-be5f-d0cdf6e984c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Close2.768</value>
+      <webElementGuid>14b6b69e-f3d2-422a-98f0-b687b35a21a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;px-[64px] py-8 mx-auto mt-24 mb-28 max-w-screen-2xl relative&quot;]/div[@class=&quot;md:w-full lg:w-6/12 bg-[#E7F6F9] mx-auto mb-10 p-4 rounded&quot;]/div[@class=&quot;grid gap-2&quot;]/div[1]/div[@class=&quot;bg-[#FFF] px-4 py-2 rounded-bl rounded-br&quot;]/a[@class=&quot;rounded flex items-center&quot;]</value>
+      <webElementGuid>bb42ed0c-4d29-4438-8962-e1d6e772cfc0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div[6]/div[3]/div/div[3]/a</value>
+      <webElementGuid>f1358e5d-4189-41e2-b40b-2f2d3c70cc49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open'])[2]/following::a[5]</value>
+      <webElementGuid>3372d848-7f80-426d-9056-a1bd53252483</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KELUHAN PELANGGAN'])[1]/following::a[5]</value>
+      <webElementGuid>9b463952-6ba1-4a30-8852-276eaa27cffe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GANGGUAN PERLU PERHATIAN'])[1]/preceding::a[1]</value>
+      <webElementGuid>9032b7af-7c57-4f1c-91f0-8d02fb41db61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/')])[72]</value>
+      <webElementGuid>6d023b1d-cbb4-4d79-bf85-3f13f84ebc6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[3]/a</value>
+      <webElementGuid>745c33ea-93b2-4b33-8ca0-987505caac4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/' and (text() = 'Close2.768' or . = 'Close2.768')]</value>
+      <webElementGuid>6ba2e1f8-8415-4277-b2df-2af22753aa46</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

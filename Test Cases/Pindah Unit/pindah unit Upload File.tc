@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>pindah unit Upload File</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>48426825-0f0c-4934-be2b-cf802a5f7e7b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>97f268e7-8bea-4f47-8ade-dd5985880ce7</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'D:\\\\Dummy 1.docx'</defaultValue>
+      <description></description>
+      <id>97f268e7-8bea-4f47-8ade-dd5985880ce7</id>
+      <masked>false</masked>
+      <name>file</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>valid data</description>
+   <name>Login Form</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>48732b41-2e67-47f5-82dd-954e96cd47f4</testCaseGuid>
+</TestCaseEntity>

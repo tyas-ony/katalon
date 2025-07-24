@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Rekap Pelanggan -Berdasarkan user login</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ad88fd32-c053-4237-8778-2d0bca922a0a</testCaseGuid>
+</TestCaseEntity>

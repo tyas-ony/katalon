@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Monitoring Grafik Tren Harian</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fb319e58-238d-4aa0-b59a-ae3b40aa6736</testCaseGuid>
+</TestCaseEntity>

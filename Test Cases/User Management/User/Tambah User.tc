@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Tambah User</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a7f03655-779c-40b2-8ff7-c401ef0634b5</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>04113aba-8f88-4ddf-af41-9f3a270c2b2b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'dev'</defaultValue>
+      <description></description>
+      <id>04113aba-8f88-4ddf-af41-9f3a270c2b2b</id>
+      <masked>false</masked>
+      <name>Role</name>
+   </variable>
+</TestCaseEntity>

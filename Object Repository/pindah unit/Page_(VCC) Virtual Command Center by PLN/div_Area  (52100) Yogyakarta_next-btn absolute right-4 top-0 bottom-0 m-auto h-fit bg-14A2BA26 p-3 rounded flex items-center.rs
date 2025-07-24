@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Area  (52100) Yogyakarta_next-btn absolute right-4 top-0 bottom-0 m-auto h-fit bg-14A2BA26 p-3 rounded flex items-center</name>
+   <tag></tag>
+   <elementGuidId>d9b78f75-8f6b-4041-9874-39440054c330</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div/nav/div[3]/div/div/div/a/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e5abc62a-2f13-4b92-a145-00cdcd392c83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>next-btn absolute right-4 top-0 bottom-0 m-auto !h-fit bg-[#14A2BA26] p-3 rounded flex items-center</value>
+      <webElementGuid>0f65540f-bfc1-4e37-b9f3-20db210c8e95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[1]/div[1]/div[1]/nav[@class=&quot;main-navbar fixed top-0 left-0 right-0 shadow-md&quot;]/div[@class=&quot;--right flex gap-4 absolute top-0 bottom-0 right-10 h-fit m-auto&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;animate-fadeInNav bg-[#fff] rounded shadow-md absolute min-w-[255px] top-[100%] right-0&quot;]/div[@class=&quot;menus flex flex-col&quot;]/a[@class=&quot;flex gap-3 shadow-sm items-center px-3 py-4 hover:bg-[#e7f6f9] text-[14px] relative&quot;]/div[@class=&quot;next-btn absolute right-4 top-0 bottom-0 m-auto !h-fit bg-[#14A2BA26] p-3 rounded flex items-center&quot;]</value>
+      <webElementGuid>3afd61a2-eb4c-4adf-8426-e6a32f897943</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/nav/div[3]/div/div/div/a/div[2]</value>
+      <webElementGuid>afea81f8-ae10-47ce-bdba-9fd4158a929e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Area : (52100) Yogyakarta'])[1]/following::div[1]</value>
+      <webElementGuid>0a57adc8-78e4-4aea-98b4-4b09e58a4f47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Administrator'])[1]/following::div[3]</value>
+      <webElementGuid>7987ad76-783e-415b-8592-1c10188f0406</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Permohonan Pindah Unit'])[1]/preceding::div[1]</value>
+      <webElementGuid>7a9f7bcc-296d-4771-98dc-e3bd881b1509</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manual User'])[1]/preceding::div[2]</value>
+      <webElementGuid>af75eb6b-0978-4361-8fb1-e25f82608a25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div[2]</value>
+      <webElementGuid>a182d056-65c9-422a-b35c-c79947873b75</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
